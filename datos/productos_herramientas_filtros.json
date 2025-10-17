@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_herram_filtro/imagen.jpg",
+        "alt": "Llave para filtro de aceite CARPRISS",
+        "marca": "CARPRISS",
+        "codigo": "LLAVE FILTRO CARPRISS",
+        "tipo": "herramientas_filtros",
+        "peso": 0.5,
+        "precio": 8.99
+    },
+    {
+        "id": 2,
+        "img": "img/img_herram_filtro/imagen1.jpg",
+        "alt": "Llave para filtro de aceite MAHLE",
+        "marca": "MAHLE",
+        "codigo": "LLAVE FILTRO MAHLE",
+        "tipo": "herramientas_filtros",
+        "peso": 0.6,
+        "precio": 6.99
+    },
+    {
+        "id": 3,
+        "img": "img/img_herram_filtro/imagen2.jpg",
+        "alt": "Llave para filtro de aceite CARPRISS",
+        "marca": "CARPRISS",
+        "codigo": "LLAVE FILTRO CARPRISS",
+        "tipo": "herramientas_filtros",
+        "peso": 0.7,
+        "precio": 12.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_herram_filtro/imagen3.jpg",
+        "alt": "Tapon de dilatacion METALCAUCHO",
+        "marca": "METALCAUCHO",
+        "codigo": "TAPON DILATACION METALCAUCHO",
+        "tipo": "herramientas_filtros",
+        "peso": 0.9,
+        "precio": 10.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_herram_filtro/imagen.jpg",
+        "alt": "Llave para filtro de aceite CARPRISS",
+        "marca": "CARPRISS",
+        "codigo": "LLAVE FILTRO CARPRISS",
+        "tipo": "herramientas_filtros",
+        "peso": 0.5,
+        "precio": 8.99
+    },
+    {
+        "id": 6,
+        "img": "img/img_herram_filtro/imagen1.jpg",
+        "alt": "Llave para filtro de aceite MAHLE",
+        "marca": "MAHLE",
+        "codigo": "LLAVE FILTRO MAHLE",
+        "tipo": "herramientas_filtros",
+        "peso": 0.6,
+        "precio": 6.99
+    },
+    {
+        "id": 7,
+        "img": "img/img_herram_filtro/imagen2.jpg",
+        "alt": "Llave para filtro de aceite CARPRISS",
+        "marca": "CARPRISS",
+        "codigo": "LLAVE FILTRO CARPRISS",
+        "tipo": "herramientas_filtros",
+        "peso": 0.7,
+        "precio": 12.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_herram_filtro/imagen3.jpg",
+        "alt": "Tapon de dilatacion METALCAUCHO",
+        "marca": "METALCAUCHO",
+        "codigo": "TAPON DILATACION METALCAUCHO",
+        "tipo": "herramientas_filtros",
+        "peso": 0.9,
+        "precio": 10.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_herram_filtro/imagen.jpg",
+        "alt": "Llave para filtro de aceite CARPRISS",
+        "marca": "CARPRISS",
+        "codigo": "LLAVE FILTRO CARPRISS",
+        "tipo": "herramientas_filtros",
+        "peso": 0.5,
+        "precio": 8.99
+    },
+    {
+        "id": 10,
+        "img": "img/img_herram_filtro/imagen1.jpg",
+        "alt": "Llave para filtro de aceite MAHLE",
+        "marca": "MAHLE",
+        "codigo": "LLAVE FILTRO MAHLE",
+        "tipo": "herramientas_filtros",
+        "peso": 0.6,
+        "precio": 6.99
+    },
+    {
+        "id": 11,
+        "img": "img/img_herram_filtro/imagen2.jpg",
+        "alt": "Llave para filtro de aceite CARPRISS",
+        "marca": "CARPRISS",
+        "codigo": "LLAVE FILTRO CARPRISS",
+        "tipo": "herramientas_filtros",
+        "peso": 0.7,
+        "precio": 12.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_herram_filtro/imagen3.jpg",
+        "alt": "Tapon de dilatacion METALCAUCHO",
+        "marca": "METALCAUCHO",
+        "codigo": "TAPON DILATACION METALCAUCHO",
+        "tipo": "herramientas_filtros",
+        "peso": 0.9,
+        "precio": 10.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_herram_filtro/imagen.jpg",
+        "alt": "Llave para filtro de aceite CARPRISS",
+        "marca": "CARPRISS",
+        "codigo": "LLAVE FILTRO CARPRISS",
+        "tipo": "herramientas_filtros",
+        "peso": 0.5,
+        "precio": 8.99
+    },
+    {
+        "id": 14,
+        "img": "img/img_herram_filtro/imagen1.jpg",
+        "alt": "Llave para filtro de aceite MAHLE",
+        "marca": "MAHLE",
+        "codigo": "LLAVE FILTRO MAHLE",
+        "tipo": "herramientas_filtros",
+        "peso": 0.6,
+        "precio": 6.99
+    },
+    {
+        "id": 15,
+        "img": "img/img_herram_filtro/imagen2.jpg",
+        "alt": "Llave para filtro de aceite CARPRISS",
+        "marca": "CARPRISS",
+        "codigo": "LLAVE FILTRO CARPRISS",
+        "tipo": "herramientas_filtros",
+        "peso": 0.7,
+        "precio": 12.00
+    },
+    {
+        "id": 16,
+        "img": "img/img_herram_filtro/imagen3.jpg",
+        "alt": "Tapon de dilatacion METALCAUCHO",
+        "marca": "METALCAUCHO",
+        "codigo": "TAPON DILATACION METALCAUCHO",
+        "tipo": "herramientas_filtros",
+        "peso": 0.9,
+        "precio": 10.00
+    }
+]

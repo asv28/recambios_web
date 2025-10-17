@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_latiguillos/imagen.jpg",
+        "alt": "Latiguillo de freno BREMBO T06030", 
+        "marca": "BREMBO",
+        "codigo": "T06030",
+        "tipo": "latiguillos",
+        "peso": 0.5,    
+        "precio": 15.99
+    },
+    {
+        "id": 2,
+        "img": "img/img_latiguillos/imagen1.jpg",
+        "alt": "Latiguillo de freno BREMBO T06031",
+        "marca": "BREMBO",
+        "codigo": "T06031",
+        "tipo": "latiguillos",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 3,
+        "img": "img/img_latiguillos/imagen2.jpg",
+        "alt": "Latiguillo de freno BREMBO T06032",
+        "marca": "BREMBO",
+        "codigo": "T06032",
+        "tipo": "latiguillos",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_latiguillos/imagen3.jpg",
+        "alt": "Latiguillo de freno BREMBO T06033",
+        "marca": "BREMBO",
+        "codigo": "T06033",
+        "tipo": "latiguillos",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 5,
+        "img": "img/img_latiguillos/imagen4.jpg",
+        "alt": "Latiguillo de freno BREMBO T06034",
+        "marca": "BREMBO",
+        "codigo": "T06034",
+        "tipo": "latiguillos",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_latiguillos/imagen5.jpg",
+        "alt": "Latiguillo de freno TRW PHD677",    
+        "marca": "TRW",
+        "codigo": "PHD677",
+        "tipo": "latiguillos",
+        "peso": 0.4,
+        "precio": 12.50
+    },
+    {
+        "id": 7,
+        "img": "img/img_latiguillos/imagen.jpg",
+        "alt": "Latiguillo de freno BREMBO T06030", 
+        "marca": "BREMBO",
+        "codigo": "T06030",
+        "tipo": "latiguillos",
+        "peso": 0.5,    
+        "precio": 15.99
+    },
+    {
+        "id": 8,
+        "img": "img/img_latiguillos/imagen1.jpg",
+        "alt": "Latiguillo de freno BREMBO T06031",
+        "marca": "BREMBO",
+        "codigo": "T06031",
+        "tipo": "latiguillos",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 9,
+        "img": "img/img_latiguillos/imagen2.jpg",
+        "alt": "Latiguillo de freno BREMBO T06032",
+        "marca": "BREMBO",
+        "codigo": "T06032",
+        "tipo": "latiguillos",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_latiguillos/imagen3.jpg",
+        "alt": "Latiguillo de freno BREMBO T06033",
+        "marca": "BREMBO",
+        "codigo": "T06033",
+        "tipo": "latiguillos",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 11,
+        "img": "img/img_latiguillos/imagen4.jpg",
+        "alt": "Latiguillo de freno BREMBO T06034",
+        "marca": "BREMBO",
+        "codigo": "T06034",
+        "tipo": "latiguillos",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_latiguillos/imagen5.jpg",
+        "alt": "Latiguillo de freno TRW PHD677",    
+        "marca": "TRW",
+        "codigo": "PHD677",
+        "tipo": "latiguillos",
+        "peso": 0.4,
+        "precio": 12.50
+    },
+    {
+        "id": 13,
+        "img": "img/img_latiguillos/imagen.jpg",
+        "alt": "Latiguillo de freno BREMBO T06030", 
+        "marca": "BREMBO",
+        "codigo": "T06030",
+        "tipo": "latiguillos",
+        "peso": 0.5,    
+        "precio": 15.99
+    },
+    {
+        "id": 14,
+        "img": "img/img_latiguillos/imagen1.jpg",
+        "alt": "Latiguillo de freno BREMBO T06031",
+        "marca": "BREMBO",
+        "codigo": "T06031",
+        "tipo": "latiguillos",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 15,
+        "img": "img/img_latiguillos/imagen2.jpg",
+        "alt": "Latiguillo de freno BREMBO T06032",
+        "marca": "BREMBO",
+        "codigo": "T06032",
+        "tipo": "latiguillos",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 16,
+        "img": "img/img_latiguillos/imagen3.jpg",
+        "alt": "Latiguillo de freno BREMBO T06033",
+        "marca": "BREMBO",
+        "codigo": "T06033",
+        "tipo": "latiguillos",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 17,
+        "img": "img/img_latiguillos/imagen4.jpg",
+        "alt": "Latiguillo de freno BREMBO T06034",
+        "marca": "BREMBO",
+        "codigo": "T06034",
+        "tipo": "latiguillos",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 18,
+        "img": "img/img_latiguillos/imagen5.jpg",
+        "alt": "Latiguillo de freno TRW PHD677",    
+        "marca": "TRW",
+        "codigo": "PHD677",
+        "tipo": "latiguillos",
+        "peso": 0.4,
+        "precio": 12.50
+    }
+]

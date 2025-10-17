@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_tensores/imagen.jpg",
+        "alt": "Tensor de cadena Gates TCKWP 01234",
+        "marca": "GATES",
+        "codigo": "TCKWP 01234",
+        "tipo": "tensor",
+        "peso": 1.6,
+        "precio": 35.00 
+    },
+    {
+        "id": 2,
+        "img": "img/img_tensores/imagen1.jpg",
+        "alt": "Tensor de cadena Contitech CTK 56789",
+        "marca": "CONTITECH",
+        "codigo": "CTK 56789",
+        "tipo": "tensor",
+        "peso": 1.7,
+        "precio": 40.00
+    },
+    {
+        "id": 3,
+        "img": "img/img_tensores/imagen2.jpg",
+        "alt": "Tensor de cadena Dayco DKC 101112",
+        "marca": "DAYCO",
+        "codigo": "DKC 101112",
+        "tipo": "tensor",
+        "peso": 1.8,
+        "precio": 45.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_tensores/imagen3.jpg",
+        "alt": "Tensor de cadena INA 131415",
+        "marca": "INA",
+        "codigo": "131415",
+        "tipo": "tensor",
+        "peso": 1.9,
+        "precio": 50.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_tensores/imagen4.jpg",
+        "alt": "Tensor de cadena Bosch 161718",
+        "marca": "BOSCH",
+        "codigo": "161718",
+        "tipo": "tensor",
+        "peso": 2.0,
+        "precio": 55.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_tensores/imagen.jpg",
+        "alt": "Tensor de cadena Gates TCKWP 01234",
+        "marca": "GATES",
+        "codigo": "TCKWP 01234",
+        "tipo": "tensor",
+        "peso": 1.6,
+        "precio": 35.00 
+    },
+    {
+        "id": 7,
+        "img": "img/img_tensores/imagen1.jpg",
+        "alt": "Tensor de cadena Contitech CTK 56789",
+        "marca": "CONTITECH",
+        "codigo": "CTK 56789",
+        "tipo": "tensor",
+        "peso": 1.7,
+        "precio": 40.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_tensores/imagen2.jpg",
+        "alt": "Tensor de cadena Dayco DKC 101112",
+        "marca": "DAYCO",
+        "codigo": "DKC 101112",
+        "tipo": "tensor",
+        "peso": 1.8,
+        "precio": 45.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_tensores/imagen3.jpg",
+        "alt": "Tensor de cadena INA 131415",
+        "marca": "INA",
+        "codigo": "131415",
+        "tipo": "tensor",
+        "peso": 1.9,
+        "precio": 50.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_tensores/imagen4.jpg",
+        "alt": "Tensor de cadena Bosch 161718",
+        "marca": "BOSCH",
+        "codigo": "161718",
+        "tipo": "tensor",
+        "peso": 2.0,
+        "precio": 55.00
+    },
+    {
+        "id": 11,
+        "img": "img/img_tensores/imagen.jpg",
+        "alt": "Tensor de cadena Gates TCKWP 01234",
+        "marca": "GATES",
+        "codigo": "TCKWP 01234",
+        "tipo": "tensor",
+        "peso": 1.6,
+        "precio": 35.00 
+    },
+    {
+        "id": 12,
+        "img": "img/img_tensores/imagen1.jpg",
+        "alt": "Tensor de cadena Contitech CTK 56789",
+        "marca": "CONTITECH",
+        "codigo": "CTK 56789",
+        "tipo": "tensor",
+        "peso": 1.7,
+        "precio": 40.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_tensores/imagen2.jpg",
+        "alt": "Tensor de cadena Dayco DKC 101112",
+        "marca": "DAYCO",
+        "codigo": "DKC 101112",
+        "tipo": "tensor",
+        "peso": 1.8,
+        "precio": 45.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_tensores/imagen3.jpg",
+        "alt": "Tensor de cadena INA 131415",
+        "marca": "INA",
+        "codigo": "131415",
+        "tipo": "tensor",
+        "peso": 1.9,
+        "precio": 50.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_tensores/imagen4.jpg",
+        "alt": "Tensor de cadena Bosch 161718",
+        "marca": "BOSCH",
+        "codigo": "161718",
+        "tipo": "tensor",
+        "peso": 2.0,
+        "precio": 55.00
+    }
+]

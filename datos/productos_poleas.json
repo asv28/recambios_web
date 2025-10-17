@@ -1,0 +1,152 @@
+    [
+        {
+            "id": 1,
+            "img": "img/img_poleas/imagen.jpg",
+            "alt": "Polea de cigueñal INA 530 0010 10",
+            "marca": "INA", 
+            "codigo": "530 0010 10",
+            "tipo": "poleas",
+            "peso": 0.8,
+            "precio": 45.00
+        },
+        {
+            "id": 2,
+            "img": "img/img_poleas/imagen1.jpg",
+            "alt": "Polea de cigueñal Gates 530 0010 11",
+            "marca": "GATES",
+            "codigo": "530 0010 11",
+            "tipo": "poleas",
+            "peso": 0.9,
+            "precio": 50.00
+        },
+        {
+            "id": 3,
+            "img": "img/img_poleas/imagen2.jpg",
+            "alt": "Polea de cigueñal Contitech 530 0010 12",
+            "marca": "CONTITECH",
+            "codigo": "530 0010 12",
+            "tipo": "poleas",
+            "peso": 1.0,
+            "precio": 55.00
+        },
+        {   
+            "id": 4,
+            "img": "img/img_poleas/imagen3.jpg",
+            "alt": "Polea de cigueñal SKF VKM 13000",
+            "marca": "SKF",
+            "codigo": "VKM 13000",
+            "tipo": "poleas",
+            "peso": 1.1,
+            "precio": 60.00
+        },
+        {
+            "id": 5,
+            "img": "img/img_poleas/imagen4.jpg",
+            "alt": "Polea de cigueñal INA 530 0010 10",
+            "marca": "INA",
+            "codigo": "530 0010 10",
+            "tipo": "poleas",
+            "peso": 0.8,
+            "precio": 45.00
+        },
+        {
+            "id": 6,
+            "img": "img/img_poleas/imagen.jpg",
+            "alt": "Polea de cigueñal INA 530 0010 10",
+            "marca": "INA", 
+            "codigo": "530 0010 10",
+            "tipo": "poleas",
+            "peso": 0.8,
+            "precio": 45.00
+        },
+        {
+            "id": 7,
+            "img": "img/img_poleas/imagen1.jpg",
+            "alt": "Polea de cigueñal Gates 530 0010 11",
+            "marca": "GATES",
+            "codigo": "530 0010 11",
+            "tipo": "poleas",
+            "peso": 0.9,
+            "precio": 50.00
+        },
+        {
+            "id": 8,
+            "img": "img/img_poleas/imagen2.jpg",
+            "alt": "Polea de cigueñal Contitech 530 0010 12",
+            "marca": "CONTITECH",
+            "codigo": "530 0010 12",
+            "tipo": "poleas",
+            "peso": 1.0,
+            "precio": 55.00
+        },
+        {
+            "id": 9,
+            "img": "img/img_poleas/imagen3.jpg",
+            "alt": "Polea de cigueñal SKF VKM 13000",
+            "marca": "SKF",
+            "codigo": "VKM 13000",
+            "tipo": "poleas",
+            "peso": 1.1,
+            "precio": 60.00
+        },
+        {
+            "id": 10,
+            "img": "img/img_poleas/imagen4.jpg",
+            "alt": "Polea de cigueñal INA 530 0010 10",
+            "marca": "INA",
+            "codigo": "530 0010 10",
+            "tipo": "poleas",
+            "peso": 0.8,
+            "precio": 45.00
+        },
+        {
+            "id": 11,
+            "img": "img/img_poleas/imagen.jpg",
+            "alt": "Polea de cigueñal INA 530 0010 10",
+            "marca": "INA", 
+            "codigo": "530 0010 10",
+            "tipo": "poleas",
+            "peso": 0.8,
+            "precio": 45.00
+        },
+        {
+            "id": 12,
+            "img": "img/img_poleas/imagen1.jpg",
+            "alt": "Polea de cigueñal Gates 530 0010 11",
+            "marca": "GATES",
+            "codigo": "530 0010 11",
+            "tipo": "poleas",
+            "peso": 0.9,
+            "precio": 50.00
+        },
+        {
+            "id": 13,
+            "img": "img/img_poleas/imagen2.jpg",
+            "alt": "Polea de cigueñal Contitech 530 0010 12",
+            "marca": "CONTITECH",
+            "codigo": "530 0010 12",
+            "tipo": "poleas",
+            "peso": 1.0,
+            "precio": 55.00
+        },
+        {
+            "id": 14,
+            "img": "img/img_poleas/imagen3.jpg",
+            "alt": "Polea de cigueñal SKF VKM 13000",
+            "marca": "SKF",
+            "codigo": "VKM 13000",
+            "tipo": "poleas",
+            "peso": 1.1,
+            "precio": 60.00
+        },
+        {
+            "id": 15,
+            "img": "img/img_poleas/imagen4.jpg",
+            "alt": "Polea de cigueñal INA 530 0010 10",
+            "marca": "INA",
+            "codigo": "530 0010 10",
+            "tipo": "poleas",
+            "peso": 0.8,
+            "precio": 45.00
+        }
+    ]

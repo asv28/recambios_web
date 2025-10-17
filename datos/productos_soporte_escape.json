@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_sopor_escape/imagen.jpg",
+        "alt": "Soporte de escape Bosal 2000",
+        "marca": "BOSAL",
+        "codigo": "2000",
+        "tipo": "soporte_escape",
+        "peso": 0.1,
+        "precio": 5.00
+    },
+    {
+        "id": 2,
+        "img": "img/img_sopor_escape/imagen1.jpg",
+        "alt": "Soporte de escape FEBI BILSTEIN 3000",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "3000",
+        "tipo": "soporte_escape",
+        "peso": 0.2,
+        "precio": 6.50
+    },
+    {
+        "id": 3,
+        "img": "img/img_sopor_escape/imagen2.jpg",
+        "alt": "Soporte de escape Eberspächer 4000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "4000",
+        "tipo": "soporte_escape",
+        "peso": 0.3,
+        "precio": 7.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_sopor_escape/imagen3.jpg",
+        "alt": "Soporte de escape Bosal 5000",
+        "marca": "BOSAL",
+        "codigo": "5000",
+        "tipo": "soporte_escape",
+        "peso": 0.4,
+        "precio": 8.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_sopor_escape/imagen4.jpg",
+        "alt": "Soporte de escape Walker 6000",
+        "marca": "WALKER",
+        "codigo": "6000",
+        "tipo": "soporte_escape",
+        "peso": 0.5,
+        "precio": 9.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_sopor_escape/imagen5.jpg",
+        "alt": "Soporte de escape TRICLO 7000",
+        "marca": "TRICLO",
+        "codigo": "7000",
+        "tipo": "soporte_escape",
+        "peso": 0.6,
+        "precio": 10.00
+    },
+    {
+        "id": 7,
+        "img": "img/img_sopor_escape/imagen6.jpg",
+        "alt": "Soporte de escape FEBI BILSTEIN 8000",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "8000",
+        "tipo": "soporte_escape",
+        "peso": 0.7,
+        "precio": 11.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_sopor_escape/imagen7.jpg",
+        "alt": "Soporte de escape Eberspächer 9000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "9000",
+        "tipo": "soporte_escape",
+        "peso": 0.8,
+        "precio": 12.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_sopor_escape/imagen.jpg",
+        "alt": "Soporte de escape Bosal 2000",
+        "marca": "BOSAL",
+        "codigo": "2000",
+        "tipo": "soporte_escape",
+        "peso": 0.1,
+        "precio": 5.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_sopor_escape/imagen1.jpg",
+        "alt": "Soporte de escape FEBI BILSTEIN 3000",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "3000",
+        "tipo": "soporte_escape",
+        "peso": 0.2,
+        "precio": 6.50
+    },
+    {
+        "id": 11,
+        "img": "img/img_sopor_escape/imagen2.jpg",
+        "alt": "Soporte de escape Eberspächer 4000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "4000",
+        "tipo": "soporte_escape",
+        "peso": 0.3,
+        "precio": 7.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_sopor_escape/imagen3.jpg",
+        "alt": "Soporte de escape Bosal 5000",
+        "marca": "BOSAL",
+        "codigo": "5000",
+        "tipo": "soporte_escape",
+        "peso": 0.4,
+        "precio": 8.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_sopor_escape/imagen4.jpg",
+        "alt": "Soporte de escape Walker 6000",
+        "marca": "WALKER",
+        "codigo": "6000",
+        "tipo": "soporte_escape",
+        "peso": 0.5,
+        "precio": 9.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_sopor_escape/imagen5.jpg",
+        "alt": "Soporte de escape TRICLO 7000",
+        "marca": "TRICLO",
+        "codigo": "7000",
+        "tipo": "soporte_escape",
+        "peso": 0.6,
+        "precio": 10.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_sopor_escape/imagen6.jpg",
+        "alt": "Soporte de escape FEBI BILSTEIN 8000",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "8000",
+        "tipo": "soporte_escape",
+        "peso": 0.7,
+        "precio": 11.00
+    },
+    {
+        "id": 16,
+        "img": "img/img_sopor_escape/imagen7.jpg",
+        "alt": "Soporte de escape Eberspächer 9000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "9000",
+        "tipo": "soporte_escape",
+        "peso": 0.8,
+        "precio": 12.00
+    },
+    {
+        "id": 17,
+        "img": "img/img_sopor_escape/imagen.jpg",
+        "alt": "Soporte de escape Bosal 2000",
+        "marca": "BOSAL",
+        "codigo": "2000",
+        "tipo": "soporte_escape",
+        "peso": 0.1,
+        "precio": 5.00
+    },
+    {
+        "id": 18,
+        "img": "img/img_sopor_escape/imagen1.jpg",
+        "alt": "Soporte de escape FEBI BILSTEIN 3000",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "3000",
+        "tipo": "soporte_escape",
+        "peso": 0.2,
+        "precio": 6.50
+    },
+    {
+        "id": 19,
+        "img": "img/img_sopor_escape/imagen2.jpg",
+        "alt": "Soporte de escape Eberspächer 4000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "4000",
+        "tipo": "soporte_escape",
+        "peso": 0.3,
+        "precio": 7.00
+    },
+    {
+        "id": 20,
+        "img": "img/img_sopor_escape/imagen3.jpg",
+        "alt": "Soporte de escape Bosal 5000",
+        "marca": "BOSAL",
+        "codigo": "5000",
+        "tipo": "soporte_escape",
+        "peso": 0.4,
+        "precio": 8.00
+    },
+    {
+        "id": 21,
+        "img": "img/img_sopor_escape/imagen4.jpg",
+        "alt": "Soporte de escape Walker 6000",
+        "marca": "WALKER",
+        "codigo": "6000",
+        "tipo": "soporte_escape",
+        "peso": 0.5,
+        "precio": 9.00
+    },
+    {
+        "id": 22,
+        "img": "img/img_sopor_escape/imagen5.jpg",
+        "alt": "Soporte de escape TRICLO 7000",
+        "marca": "TRICLO",
+        "codigo": "7000",
+        "tipo": "soporte_escape",
+        "peso": 0.6,
+        "precio": 10.00
+    },
+    {
+        "id": 23,
+        "img": "img/img_sopor_escape/imagen6.jpg",
+        "alt": "Soporte de escape FEBI BILSTEIN 8000",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "8000",
+        "tipo": "soporte_escape",
+        "peso": 0.7,
+        "precio": 11.00
+    },
+    {
+        "id": 24,
+        "img": "img/img_sopor_escape/imagen7.jpg",
+        "alt": "Soporte de escape Eberspächer 9000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "9000",
+        "tipo": "soporte_escape",
+        "peso": 0.8,
+        "precio": 12.00
+    }
+]

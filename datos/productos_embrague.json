@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_embrague/imagen.jpg",
+        "alt": "Embrague Valeo 123456",
+        "marca": "VALEO",
+        "codigo": "123456",
+        "tipo": "embrague",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 2,
+        "img": "img/img_embrague/imagen1.jpg",
+        "alt": "Embrague Luk 654321",
+        "marca": "LUK",
+        "codigo": "654321",
+        "tipo": "embrague",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 3,
+        "img": "img/img_embrague/imagen2.jpg",
+        "alt": "Embrague Aisin 789012",
+        "marca": "AISIN",
+        "codigo": "789012",
+        "tipo": "embrague",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_embrague/imagen3.jpg",
+        "alt": "Embrague Sachs 345678",
+        "marca": "SACHS",
+        "codigo": "345678",
+        "tipo": "embrague",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_embrague/imagen4.jpg",
+        "alt": "Embrague Exedy 901234",
+        "marca": "EXEDY",
+        "codigo": "901234",
+        "tipo": "embrague",
+        "peso": 9.0,
+        "precio": 250.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_embrague/imagen5.jpg",
+        "alt": "Embrague TRW 567890",
+        "marca": "TRW",
+        "codigo": "567890",
+        "tipo": "embrague",
+        "peso": 10.0,
+        "precio": 300.00
+    },
+    {
+        "id": 7,
+        "img": "img/img_embrague/imagen6.jpg",
+        "alt": "Embrague Ferodo 123789",
+        "marca": "FERODO",
+        "codigo": "123789",
+        "tipo": "embrague",
+        "peso": 11.0,
+        "precio": 350.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_embrague/imagen7.jpg",
+        "alt": "Embrague Valeo 456123",
+        "marca": "VALEO",
+        "codigo": "456123",
+        "tipo": "embrague",
+        "peso": 12.0,
+        "precio": 400.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_embrague/imagen8.jpg",
+        "alt": "Embrague Luk 789456",
+        "marca": "LUK",
+        "codigo": "789456",
+        "tipo": "embrague",
+        "peso": 13.0,
+        "precio": 450.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_embrague/imagen.jpg",
+        "alt": "Embrague Valeo 123456",
+        "marca": "VALEO",
+        "codigo": "123456",
+        "tipo": "embrague",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 11,
+        "img": "img/img_embrague/imagen1.jpg",
+        "alt": "Embrague Luk 654321",
+        "marca": "LUK",
+        "codigo": "654321",
+        "tipo": "embrague",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_embrague/imagen2.jpg",
+        "alt": "Embrague Aisin 789012",
+        "marca": "AISIN",
+        "codigo": "789012",
+        "tipo": "embrague",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_embrague/imagen3.jpg",
+        "alt": "Embrague Sachs 345678",
+        "marca": "SACHS",
+        "codigo": "345678",
+        "tipo": "embrague",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_embrague/imagen4.jpg",
+        "alt": "Embrague Exedy 901234",
+        "marca": "EXEDY",
+        "codigo": "901234",
+        "tipo": "embrague",
+        "peso": 9.0,
+        "precio": 250.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_embrague/imagen5.jpg",
+        "alt": "Embrague TRW 567890",
+        "marca": "TRW",
+        "codigo": "567890",
+        "tipo": "embrague",
+        "peso": 10.0,
+        "precio": 300.00
+    },
+    {
+        "id": 16,
+        "img": "img/img_embrague/imagen6.jpg",
+        "alt": "Embrague Ferodo 123789",
+        "marca": "FERODO",
+        "codigo": "123789",
+        "tipo": "embrague",
+        "peso": 11.0,
+        "precio": 350.00
+    },
+    {
+        "id": 17,
+        "img": "img/img_embrague/imagen7.jpg",
+        "alt": "Embrague Valeo 456123",
+        "marca": "VALEO",
+        "codigo": "456123",
+        "tipo": "embrague",
+        "peso": 12.0,
+        "precio": 400.00
+    },
+    {
+        "id": 18,
+        "img": "img/img_embrague/imagen8.jpg",
+        "alt": "Embrague Luk 789456",
+        "marca": "LUK",
+        "codigo": "789456",
+        "tipo": "embrague",
+        "peso": 13.0,
+        "precio": 450.00
+    },
+    {
+        "id": 19,
+        "img": "img/img_embrague/imagen.jpg",
+        "alt": "Embrague Valeo 123456",
+        "marca": "VALEO",
+        "codigo": "123456",
+        "tipo": "embrague",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 20,
+        "img": "img/img_embrague/imagen1.jpg",
+        "alt": "Embrague Luk 654321",
+        "marca": "LUK",
+        "codigo": "654321",
+        "tipo": "embrague",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 21,
+        "img": "img/img_embrague/imagen2.jpg",
+        "alt": "Embrague Aisin 789012",
+        "marca": "AISIN",
+        "codigo": "789012",
+        "tipo": "embrague",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 22,
+        "img": "img/img_embrague/imagen3.jpg",
+        "alt": "Embrague Sachs 345678",
+        "marca": "SACHS",
+        "codigo": "345678",
+        "tipo": "embrague",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 23,
+        "img": "img/img_embrague/imagen4.jpg",
+        "alt": "Embrague Exedy 901234",
+        "marca": "EXEDY",
+        "codigo": "901234",
+        "tipo": "embrague",
+        "peso": 9.0,
+        "precio": 250.00
+    },
+    {
+        "id": 24,
+        "img": "img/img_embrague/imagen5.jpg",
+        "alt": "Embrague TRW 567890",
+        "marca": "TRW",
+        "codigo": "567890",
+        "tipo": "embrague",
+        "peso": 10.0,
+        "precio": 300.00
+    },
+    {
+        "id": 25,
+        "img": "img/img_embrague/imagen6.jpg",
+        "alt": "Embrague Ferodo 123789",
+        "marca": "FERODO",
+        "codigo": "123789",
+        "tipo": "embrague",
+        "peso": 11.0,
+        "precio": 350.00
+    },
+    {
+        "id": 26,
+        "img": "img/img_embrague/imagen7.jpg",
+        "alt": "Embrague Valeo 456123",
+        "marca": "VALEO",
+        "codigo": "456123",
+        "tipo": "embrague",
+        "peso": 12.0,
+        "precio": 400.00
+    },
+    {
+        "id": 27,
+        "img": "img/img_embrague/imagen8.jpg",
+        "alt": "Embrague Luk 789456",
+        "marca": "LUK",
+        "codigo": "789456",
+        "tipo": "embrague",
+        "peso": 13.0,
+        "precio": 450.00
+    }
+]

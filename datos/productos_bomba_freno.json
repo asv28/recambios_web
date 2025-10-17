@@ -1,0 +1,213 @@
+[
+    {   
+        "id": 1,
+        "img": "img/img_bomba_freno/imagen.jpg",
+        "alt": "Bomba de freno Bosch 0 204 123 123",
+        "marca": "BOSCH",
+        "codigo": "0 204 123 123",
+        "tipo": "bomba_freno",
+        "peso": 1.2,
+        "precio": 45.99
+    },
+    {   
+        "id": 2,
+        "img": "img/img_bomba_freno/imagen1.jpg",
+        "alt": "Bomba de freno ATE 24.2120-0012.3",
+        "marca": "ATE",
+        "codigo": "24.2120-0012.3",
+        "tipo": "bomba_freno",
+        "peso": 1.5,
+        "precio": 50.75
+    },
+    {   
+        "id": 3,
+        "img": "img/img_bomba_freno/imagen2.jpg",
+        "alt": "Bomba de freno TRW PMA1001",
+        "marca": "TRW",
+        "codigo": "PMA1001",
+        "tipo": "bomba_freno",
+        "peso": 1.3,
+        "precio": 48.50
+    },
+    {   
+        "id": 4,
+        "img": "img/img_bomba_freno/imagen3.jpg",
+        "alt": "Bomba de freno Valeo 253002",
+        "marca": "VALEO",
+        "codigo": "253002",
+        "tipo": "bomba_freno",
+        "peso": 1.4,
+        "precio": 52.00
+    },
+    {   
+        "id": 5,
+        "img": "img/img_bomba_freno/imagen4.jpg",
+        "alt": "Bomba de freno Luk 510 0016 10",
+        "marca": "LUK",
+        "codigo": "510 0016 10",
+        "tipo": "bomba_freno",
+        "peso": 1.6,
+        "precio": 55.25
+    },
+    {   
+        "id": 6,
+        "img": "img/img_bomba_freno/imagen5.jpg",
+        "alt": "Bomba de freno Aisin 1A0 355 000",
+        "marca": "AISIN",
+        "codigo": "1A0 355 000",
+        "tipo": "bomba_freno",
+        "peso": 1.1,
+        "precio": 42.99
+    },
+    {   
+        "id": 7,
+        "img": "img/img_bomba_freno/imagen6.jpg",
+        "alt": "Bomba de freno Febi Bilstein 1 255 100",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "1 255 100",
+        "tipo": "bomba_freno",
+        "peso": 1.7,
+        "precio": 58.00
+    },
+     {  
+        "id": 8,
+        "img": "img/img_bomba_freno/imagen.jpg",
+        "alt": "Bomba de freno Bosch 0 204 123 123",
+        "marca": "BOSCH",
+        "codigo": "0 204 123 123",
+        "tipo": "bomba_freno",
+        "peso": 1.2,
+        "precio": 45.99
+    },
+    {   
+        "id": 9,
+        "img": "img/img_bomba_freno/imagen1.jpg",
+        "alt": "Bomba de freno ATE 24.2120-0012.3",
+        "marca": "ATE",
+        "codigo": "24.2120-0012.3",
+        "tipo": "bomba_freno",
+        "peso": 1.5,
+        "precio": 50.75
+    },
+    {   
+        "id": 10,
+        "img": "img/img_bomba_freno/imagen2.jpg",
+        "alt": "Bomba de freno TRW PMA1001",
+        "marca": "TRW",
+        "codigo": "PMA1001",
+        "tipo": "bomba_freno",
+        "peso": 1.3,
+        "precio": 48.50
+    },
+    {   
+        "id": 11,
+        "img": "img/img_bomba_freno/imagen3.jpg",
+        "alt": "Bomba de freno Valeo 253002",
+        "marca": "VALEO",
+        "codigo": "253002",
+        "tipo": "bomba_freno",
+        "peso": 1.4,
+        "precio": 52.00
+    },
+    {   
+        "id": 12,
+        "img": "img/img_bomba_freno/imagen4.jpg",
+        "alt": "Bomba de freno Luk 510 0016 10",
+        "marca": "LUK",
+        "codigo": "510 0016 10",
+        "tipo": "bomba_freno",
+        "peso": 1.6,
+        "precio": 55.25
+    },
+    {   
+        "id": 13,
+        "img": "img/img_bomba_freno/imagen5.jpg",
+        "alt": "Bomba de freno Aisin 1A0 355 000",
+        "marca": "AISIN",
+        "codigo": "1A0 355 000",
+        "tipo": "bomba_freno",
+        "peso": 1.1,
+        "precio": 42.99
+    },
+    {   
+        "id": 14,
+        "img": "img/img_bomba_freno/imagen6.jpg",
+        "alt": "Bomba de freno Febi Bilstein 1 255 100",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "1 255 100",
+        "tipo": "bomba_freno",
+        "peso": 1.7,
+        "precio": 58.00
+    },
+     {  
+        "id": 15,
+        "img": "img/img_bomba_freno/imagen.jpg",
+        "alt": "Bomba de freno Bosch 0 204 123 123",
+        "marca": "BOSCH",
+        "codigo": "0 204 123 123",
+        "tipo": "bomba_freno",
+        "peso": 1.2,
+        "precio": 45.99
+    },
+    {   
+        "id": 16,
+        "img": "img/img_bomba_freno/imagen1.jpg",
+        "alt": "Bomba de freno ATE 24.2120-0012.3",
+        "marca": "ATE",
+        "codigo": "24.2120-0012.3",
+        "tipo": "bomba_freno",
+        "peso": 1.5,
+        "precio": 50.75
+    },
+    {   
+        "id": 17,
+        "img": "img/img_bomba_freno/imagen2.jpg",
+        "alt": "Bomba de freno TRW PMA1001",
+        "marca": "TRW",
+        "codigo": "PMA1001",
+        "tipo": "bomba_freno",
+        "peso": 1.3,
+        "precio": 48.50
+    },
+    {   
+        "id": 18,
+        "img": "img/img_bomba_freno/imagen3.jpg",
+        "alt": "Bomba de freno Valeo 253002",
+        "marca": "VALEO",
+        "codigo": "253002",
+        "tipo": "bomba_freno",
+        "peso": 1.4,
+        "precio": 52.00
+    },
+    {   
+        "id": 19,
+        "img": "img/img_bomba_freno/imagen4.jpg",
+        "alt": "Bomba de freno Luk 510 0016 10",
+        "marca": "LUK",
+        "codigo": "510 0016 10",
+        "tipo": "bomba_freno",
+        "peso": 1.6,
+        "precio": 55.25
+    },
+    {   
+        "id": 20,
+        "img": "img/img_bomba_freno/imagen5.jpg",
+        "alt": "Bomba de freno Aisin 1A0 355 000",
+        "marca": "AISIN",
+        "codigo": "1A0 355 000",
+        "tipo": "bomba_freno",
+        "peso": 1.1,
+        "precio": 42.99
+    },
+    {   
+        "id": 21,
+        "img": "img/img_bomba_freno/imagen6.jpg",
+        "alt": "Bomba de freno Febi Bilstein 1 255 100",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "1 255 100",
+        "tipo": "bomba_freno",
+        "peso": 1.7,
+        "precio": 58.00
+    }
+    
+]

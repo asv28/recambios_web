@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "img": "/img/img_escape/imagen.jpg",
+        "alt": "Escape Bosal 2000",
+        "marca": "BOSAL",   
+        "codigo": "2000",
+        "tipo": "Escape",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 2,
+        "img": "/img/img_escape/imagen1.jpg",
+        "alt": "Escape Walker 3000",
+        "marca": "WALKER",
+        "codigo": "3000",
+        "tipo": "Escape",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 3,
+        "img": "/img/img_escape/imagen2.jpg",
+        "alt": "Escape Eberspächer 4000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "4000",
+        "tipo": "Escape",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 4,
+        "img": "/img/img_escape/imagen3.jpg",
+        "alt": "Escape Bosal 5000",
+        "marca": "BOSAL",
+        "codigo": "5000",
+        "tipo": "Escape",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 5,
+        "img": "/img/img_escape/imagen4.jpg",
+        "alt": "Escape Walker 6000",
+        "marca": "WALKER",
+        "codigo": "6000",
+        "tipo": "Escape",
+        "peso": 9.0,
+        "precio": 250.00
+    },
+    {
+        "id": 6,
+        "img": "/img/img_escape/imagen.jpg",
+        "alt": "Escape Bosal 2000",
+        "marca": "BOSAL",   
+        "codigo": "2000",
+        "tipo": "Escape",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 7,
+        "img": "/img/img_escape/imagen1.jpg",
+        "alt": "Escape Walker 3000",
+        "marca": "WALKER",
+        "codigo": "3000",
+        "tipo": "Escape",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 8,
+        "img": "/img/img_escape/imagen2.jpg",
+        "alt": "Escape Eberspächer 4000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "4000",
+        "tipo": "Escape",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 9,
+        "img": "/img/img_escape/imagen3.jpg",
+        "alt": "Escape Bosal 5000",
+        "marca": "BOSAL",
+        "codigo": "5000",
+        "tipo": "Escape",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 10,
+        "img": "/img/img_escape/imagen4.jpg",
+        "alt": "Escape Walker 6000",
+        "marca": "WALKER",
+        "codigo": "6000",
+        "tipo": "Escape",
+        "peso": 9.0,
+        "precio": 250.00
+    },
+    {
+        "id": 11,
+        "img": "/img/img_escape/imagen.jpg",
+        "alt": "Escape Bosal 2000",
+        "marca": "BOSAL",   
+        "codigo": "2000",
+        "tipo": "Escape",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 12,
+        "img": "/img/img_escape/imagen1.jpg",
+        "alt": "Escape Walker 3000",
+        "marca": "WALKER",
+        "codigo": "3000",
+        "tipo": "Escape",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 13,
+        "img": "/img/img_escape/imagen2.jpg",
+        "alt": "Escape Eberspächer 4000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "4000",
+        "tipo": "Escape",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 14,
+        "img": "/img/img_escape/imagen3.jpg",
+        "alt": "Escape Bosal 5000",
+        "marca": "BOSAL",
+        "codigo": "5000",
+        "tipo": "Escape",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 15,
+        "img": "/img/img_escape/imagen4.jpg",
+        "alt": "Escape Walker 6000",
+        "marca": "WALKER",
+        "codigo": "6000",
+        "tipo": "Escape",
+        "peso": 9.0,
+        "precio": 250.00
+    }
+]

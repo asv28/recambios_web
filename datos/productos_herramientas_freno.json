@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_herram_freno/imagen.jpg",
+        "alt": "Herramienta neumatica para frenos BETA",
+        "marca": "BETA",
+        "codigo": "HERRAMIENTA NEUMATICA BETA",
+        "tipo": "herramientas_freno",
+        "peso": 1.5,
+        "precio": 225.00
+    },
+    {
+        "id": 2,
+        "img": "img/img_herram_freno/imagen1.jpg",
+        "alt": "Herramienta retroceder pistones freno BETA",
+        "marca": "BETA",
+        "codigo": "HERRAMIENTA RETROCEDER PISTONES BETA",
+        "tipo": "herramientas_freno",
+        "peso": 0.5,
+        "precio": 75.00
+    },
+    {
+        "id": 3,
+        "img": "img/img_herram_freno/imagen2.jpg",
+        "alt": "Adaptador para pastillas desgastadas BETA",
+        "marca": "BETA",
+        "codigo": "ADAPTADOR PASTILLAS DESGASTADAS BETA",
+        "tipo": "herramientas_freno",
+        "peso": 0.8,
+        "precio": 25.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_herram_freno/imagen3.jpg",
+        "alt": "Herramienta sustitucion cilindros frenos tambor BETA",
+        "marca": "BETA",
+        "codigo": "HERRAMIENTA SUSTITUCION CILINDROS TAMBOR BETA",
+        "tipo": "herramientas_freno",
+        "peso": 1.2,
+        "precio": 75.75
+    },
+    {
+        "id": 5,
+        "img": "img/img_herram_freno/imagen4.jpg",
+        "alt": "Tapon deposito liquidos freno BETA",
+        "marca": "BETA",
+        "codigo": "TAPON DEPOSITO LIQUIDOS FRENO BETA",
+        "tipo": "herramientas_freno",
+        "peso": 0.4,
+        "precio": 73.10
+    },
+    {
+        "id": 6,
+        "img": "img/img_herram_freno/imagen5.jpg",
+        "alt": "Grip para muelles freno tambor BETA",
+        "marca": "BETA",
+        "codigo": "GRIP MUELLES FRENO TAMBOR BETA",
+        "tipo": "herramientas_freno",
+        "peso": 0.6,
+        "precio": 15.99
+    },
+    {
+        "id": 7,
+        "img": "img/img_herram_freno/imagen.jpg",
+        "alt": "Herramienta neumatica para frenos BETA",
+        "marca": "BETA",
+        "codigo": "HERRAMIENTA NEUMATICA BETA",
+        "tipo": "herramientas_freno",
+        "peso": 1.5,
+        "precio": 225.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_herram_freno/imagen1.jpg",
+        "alt": "Herramienta retroceder pistones freno BETA",
+        "marca": "BETA",
+        "codigo": "HERRAMIENTA RETROCEDER PISTONES BETA",
+        "tipo": "herramientas_freno",
+        "peso": 0.5,
+        "precio": 75.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_herram_freno/imagen2.jpg",
+        "alt": "Adaptador para pastillas desgastadas BETA",
+        "marca": "BETA",
+        "codigo": "ADAPTADOR PASTILLAS DESGASTADAS BETA",
+        "tipo": "herramientas_freno",
+        "peso": 0.8,
+        "precio": 25.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_herram_freno/imagen3.jpg",
+        "alt": "Herramienta sustitucion cilindros frenos tambor BETA",
+        "marca": "BETA",
+        "codigo": "HERRAMIENTA SUSTITUCION CILINDROS TAMBOR BETA",
+        "tipo": "herramientas_freno",
+        "peso": 1.2,
+        "precio": 75.75
+    },
+    {
+        "id": 11,
+        "img": "img/img_herram_freno/imagen4.jpg",
+        "alt": "Tapon deposito liquidos freno BETA",
+        "marca": "BETA",
+        "codigo": "TAPON DEPOSITO LIQUIDOS FRENO BETA",
+        "tipo": "herramientas_freno",
+        "peso": 0.4,
+        "precio": 73.10
+    },
+    {
+        "id": 12,
+        "img": "img/img_herram_freno/imagen5.jpg",
+        "alt": "Grip para muelles freno tambor BETA",
+        "marca": "BETA",
+        "codigo": "GRIP MUELLES FRENO TAMBOR BETA",
+        "tipo": "herramientas_freno",
+        "peso": 0.6,
+        "precio": 15.99
+    },
+    {
+        "id": 13,
+        "img": "img/img_herram_freno/imagen.jpg",
+        "alt": "Herramienta neumatica para frenos BETA",
+        "marca": "BETA",
+        "codigo": "HERRAMIENTA NEUMATICA BETA",
+        "tipo": "herramientas_freno",
+        "peso": 1.5,
+        "precio": 225.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_herram_freno/imagen1.jpg",
+        "alt": "Herramienta retroceder pistones freno BETA",
+        "marca": "BETA",
+        "codigo": "HERRAMIENTA RETROCEDER PISTONES BETA",
+        "tipo": "herramientas_freno",
+        "peso": 0.5,
+        "precio": 75.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_herram_freno/imagen2.jpg",
+        "alt": "Adaptador para pastillas desgastadas BETA",
+        "marca": "BETA",
+        "codigo": "ADAPTADOR PASTILLAS DESGASTADAS BETA",
+        "tipo": "herramientas_freno",
+        "peso": 0.8,
+        "precio": 25.00
+    },
+    {
+        "id": 16,
+        "img": "img/img_herram_freno/imagen3.jpg",
+        "alt": "Herramienta sustitucion cilindros frenos tambor BETA",
+        "marca": "BETA",
+        "codigo": "HERRAMIENTA SUSTITUCION CILINDROS TAMBOR BETA",
+        "tipo": "herramientas_freno",
+        "peso": 1.2,
+        "precio": 75.75
+    },
+    {
+        "id": 17,
+        "img": "img/img_herram_freno/imagen4.jpg",
+        "alt": "Tapon deposito liquidos freno BETA",
+        "marca": "BETA",
+        "codigo": "TAPON DEPOSITO LIQUIDOS FRENO BETA",
+        "tipo": "herramientas_freno",
+        "peso": 0.4,
+        "precio": 73.10
+    },
+    {
+        "id": 18,
+        "img": "img/img_herram_freno/imagen5.jpg",
+        "alt": "Grip para muelles freno tambor BETA",
+        "marca": "BETA",
+        "codigo": "GRIP MUELLES FRENO TAMBOR BETA",
+        "tipo": "herramientas_freno",
+        "peso": 0.6,
+        "precio": 15.99
+    }
+]

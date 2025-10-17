@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_faros/imagen.jpg", 
+        "alt": "Faro ALKAR 2745802",
+        "marca": "ALKAR",
+        "codigo": "2745802",
+        "tipo": "opticas",
+        "peso": 1.5,
+        "precio": 45.00
+    },
+    {
+        "id": 2,
+        "img": "img/img_faros/imagen1.jpg",
+        "alt": "Faro HELLA 1EL 008 200-001",
+        "marca": "HELLA",
+        "codigo": "1EL 008 200-001",
+        "tipo": "opticas",
+        "peso": 1.8,
+        "precio": 55.00
+    },
+    {
+        "id": 3,
+        "img": "img/img_faros/imagen2.jpg",
+        "alt": "Faro VALEO 043201",
+        "marca": "VALEO",
+        "codigo": "043201",
+        "tipo": "opticas",
+        "peso": 2.0,
+        "precio": 60.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_faros/imagen3.jpg",
+        "alt": "Faro BOSCH 1 987 946 100",
+        "marca": "BOSCH",
+        "codigo": "1 987 946 100",
+        "tipo": "opticas",
+        "peso": 2.2,
+        "precio": 70.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_faros/imagen4.jpg",
+        "alt": "Faro TYC 20-1234-00-2",
+        "marca": "TYC",
+        "codigo": "20-1234-00-2",
+        "tipo": "opticas",
+        "peso": 1.7,
+        "precio": 50.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_faros/imagen.jpg", 
+        "alt": "Faro ALKAR 2745802",
+        "marca": "ALKAR",
+        "codigo": "2745802",
+        "tipo": "opticas",
+        "peso": 1.5,
+        "precio": 45.00
+    },
+    {
+        "id": 7,
+        "img": "img/img_faros/imagen1.jpg",
+        "alt": "Faro HELLA 1EL 008 200-001",
+        "marca": "HELLA",
+        "codigo": "1EL 008 200-001",
+        "tipo": "opticas",
+        "peso": 1.8,
+        "precio": 55.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_faros/imagen2.jpg",
+        "alt": "Faro VALEO 043201",
+        "marca": "VALEO",
+        "codigo": "043201",
+        "tipo": "opticas",
+        "peso": 2.0,
+        "precio": 60.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_faros/imagen3.jpg",
+        "alt": "Faro BOSCH 1 987 946 100",
+        "marca": "BOSCH",
+        "codigo": "1 987 946 100",
+        "tipo": "opticas",
+        "peso": 2.2,
+        "precio": 70.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_faros/imagen4.jpg",
+        "alt": "Faro TYC 20-1234-00-2",
+        "marca": "TYC",
+        "codigo": "20-1234-00-2",
+        "tipo": "opticas",
+        "peso": 1.7,
+        "precio": 50.00
+    },
+    {
+        "id": 11,
+        "img": "img/img_faros/imagen.jpg", 
+        "alt": "Faro ALKAR 2745802",
+        "marca": "ALKAR",
+        "codigo": "2745802",
+        "tipo": "opticas",
+        "peso": 1.5,
+        "precio": 45.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_faros/imagen1.jpg",
+        "alt": "Faro HELLA 1EL 008 200-001",
+        "marca": "HELLA",
+        "codigo": "1EL 008 200-001",
+        "tipo": "opticas",
+        "peso": 1.8,
+        "precio": 55.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_faros/imagen2.jpg",
+        "alt": "Faro VALEO 043201",
+        "marca": "VALEO",
+        "codigo": "043201",
+        "tipo": "opticas",
+        "peso": 2.0,
+        "precio": 60.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_faros/imagen3.jpg",
+        "alt": "Faro BOSCH 1 987 946 100",
+        "marca": "BOSCH",
+        "codigo": "1 987 946 100",
+        "tipo": "opticas",
+        "peso": 2.2,
+        "precio": 70.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_faros/imagen4.jpg",
+        "alt": "Faro TYC 20-1234-00-2",
+        "marca": "TYC",
+        "codigo": "20-1234-00-2",
+        "tipo": "opticas",
+        "peso": 1.7,
+        "precio": 50.00
+    }
+]

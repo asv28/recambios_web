@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_correas/imagen.jpg",
+        "alt": "Correa de alternador Gates 1234",
+        "marca": "GATES",
+        "codigo": "1234",
+        "tipo": "correa",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 2,
+        "img": "img/img_correas/imagen1.jpg",
+        "alt": "Correa de alternador Dayco 5678",
+        "marca": "DAYCO",
+        "codigo": "5678",
+        "tipo": "correa",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 3,
+        "img": "img/img_correas/imagen2.jpg",
+        "alt": "Correa de accesorios Contitech 91011",
+        "marca": "CONTITECH",
+        "codigo": "91011",
+        "tipo": "correa",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_correas/imagen3.jpg",
+        "alt": "Correa de dirección asistida Bosch 121314",
+        "marca": "BOSCH",
+        "codigo": "121314",
+        "tipo": "correa",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 5,
+        "img": "img/img_correas/imagen4.jpg",
+        "alt": "Correa de transmisión SKF 151617",
+        "marca": "SKF",
+        "codigo": "151617",
+        "tipo": "correa",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_correas/imagen5.jpg",
+        "alt": "Correa de ventilador INA 181920",
+        "marca": "INA",
+        "codigo": "181920",
+        "tipo": "correa",
+        "peso": 1.0,
+        "precio": 30.00
+    },
+    {
+        "id": 7,
+        "img": "img/img_correas/imagen.jpg",
+        "alt": "Correa de alternador Gates 1234",
+        "marca": "GATES",
+        "codigo": "1234",
+        "tipo": "correa",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 8,
+        "img": "img/img_correas/imagen1.jpg",
+        "alt": "Correa de alternador Dayco 5678",
+        "marca": "DAYCO",
+        "codigo": "5678",
+        "tipo": "correa",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 9,
+        "img": "img/img_correas/imagen2.jpg",
+        "alt": "Correa de accesorios Contitech 91011",
+        "marca": "CONTITECH",
+        "codigo": "91011",
+        "tipo": "correa",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_correas/imagen3.jpg",
+        "alt": "Correa de dirección asistida Bosch 121314",
+        "marca": "BOSCH",
+        "codigo": "121314",
+        "tipo": "correa",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 11,
+        "img": "img/img_correas/imagen4.jpg",
+        "alt": "Correa de transmisión SKF 151617",
+        "marca": "SKF",
+        "codigo": "151617",
+        "tipo": "correa",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_correas/imagen5.jpg",
+        "alt": "Correa de ventilador INA 181920",
+        "marca": "INA",
+        "codigo": "181920",
+        "tipo": "correa",
+        "peso": 1.0,
+        "precio": 30.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_correas/imagen.jpg",
+        "alt": "Correa de alternador Gates 1234",
+        "marca": "GATES",
+        "codigo": "1234",
+        "tipo": "correa",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 14,
+        "img": "img/img_correas/imagen1.jpg",
+        "alt": "Correa de alternador Dayco 5678",
+        "marca": "DAYCO",
+        "codigo": "5678",
+        "tipo": "correa",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 15,
+        "img": "img/img_correas/imagen2.jpg",
+        "alt": "Correa de accesorios Contitech 91011",
+        "marca": "CONTITECH",
+        "codigo": "91011",
+        "tipo": "correa",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 16,
+        "img": "img/img_correas/imagen3.jpg",
+        "alt": "Correa de dirección asistida Bosch 121314",
+        "marca": "BOSCH",
+        "codigo": "121314",
+        "tipo": "correa",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 17,
+        "img": "img/img_correas/imagen4.jpg",
+        "alt": "Correa de transmisión SKF 151617",
+        "marca": "SKF",
+        "codigo": "151617",
+        "tipo": "correa",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 18,
+        "img": "img/img_correas/imagen5.jpg",
+        "alt": "Correa de ventilador INA 181920",
+        "marca": "INA",
+        "codigo": "181920",
+        "tipo": "correa",
+        "peso": 1.0,
+        "precio": 30.00
+    }
+]

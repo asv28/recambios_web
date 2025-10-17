@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_inyector/imagen.jpg",
+        "alt": "Inyector BOSCH 0 280 155 123",
+        "marca": "BOSCH",
+        "codigo": "0 280 155 123",
+        "tipo": "Inyector",
+        "peso": 0.5,
+        "precio": 45.00
+    },
+    {
+        "id": 2,
+        "img": "img/img_inyector/imagen1.jpg",
+        "alt": "Inyector DELPHI 28239260",
+        "marca": "DELPHI",
+        "codigo": "28239260",
+        "tipo": "Inyector",
+        "peso": 0.6,
+        "precio": 50.00
+    },
+    {
+        "id": 3,
+        "img": "img/img_inyector/imagen2.jpg",
+        "alt": "Inyector DENSO 095000-1230",
+        "marca": "DENSO",
+        "codigo": "095000-1230",
+        "tipo": "Inyector",
+        "peso": 0.7,
+        "precio": 55.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_inyector/imagen3.jpg",
+        "alt": "Inyector SIEMENS 5WS40067",
+        "marca": "SIEMENS",
+        "codigo": "5WS40067",
+        "tipo": "Inyector",
+        "peso": 0.8,
+        "precio": 60.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_inyector/imagen4.jpg",
+        "alt": "Inyector VDO A2C59511320",    
+        "marca": "VDO",
+        "codigo": "A2C59511320",
+        "tipo": "Inyector",
+        "peso": 0.1,
+        "precio": 222.40
+    },
+    {
+        "id": 6,
+        "img": "img/img_inyector/imagen.jpg",
+        "alt": "Inyector BOSCH 0 280 155 123",
+        "marca": "BOSCH",
+        "codigo": "0 280 155 123",
+        "tipo": "Inyector",
+        "peso": 0.5,
+        "precio": 45.00
+    },
+    {
+        "id": 7,
+        "img": "img/img_inyector/imagen1.jpg",
+        "alt": "Inyector DELPHI 28239260",
+        "marca": "DELPHI",
+        "codigo": "28239260",
+        "tipo": "Inyector",
+        "peso": 0.6,
+        "precio": 50.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_inyector/imagen2.jpg",
+        "alt": "Inyector DENSO 095000-1230",
+        "marca": "DENSO",
+        "codigo": "095000-1230",
+        "tipo": "Inyector",
+        "peso": 0.7,
+        "precio": 55.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_inyector/imagen3.jpg",
+        "alt": "Inyector SIEMENS 5WS40067",
+        "marca": "SIEMENS",
+        "codigo": "5WS40067",
+        "tipo": "Inyector",
+        "peso": 0.8,
+        "precio": 60.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_inyector/imagen4.jpg",
+        "alt": "Inyector VDO A2C59511320",    
+        "marca": "VDO",
+        "codigo": "A2C59511320",
+        "tipo": "Inyector",
+        "peso": 0.1,
+        "precio": 222.40
+    },
+    {
+        "id": 11,
+        "img": "img/img_inyector/imagen.jpg",
+        "alt": "Inyector BOSCH 0 280 155 123",
+        "marca": "BOSCH",
+        "codigo": "0 280 155 123",
+        "tipo": "Inyector",
+        "peso": 0.5,
+        "precio": 45.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_inyector/imagen1.jpg",
+        "alt": "Inyector DELPHI 28239260",
+        "marca": "DELPHI",
+        "codigo": "28239260",
+        "tipo": "Inyector",
+        "peso": 0.6,
+        "precio": 50.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_inyector/imagen2.jpg",
+        "alt": "Inyector DENSO 095000-1230",
+        "marca": "DENSO",
+        "codigo": "095000-1230",
+        "tipo": "Inyector",
+        "peso": 0.7,
+        "precio": 55.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_inyector/imagen3.jpg",
+        "alt": "Inyector SIEMENS 5WS40067",
+        "marca": "SIEMENS",
+        "codigo": "5WS40067",
+        "tipo": "Inyector",
+        "peso": 0.8,
+        "precio": 60.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_inyector/imagen4.jpg",
+        "alt": "Inyector VDO A2C59511320",    
+        "marca": "VDO",
+        "codigo": "A2C59511320",
+        "tipo": "Inyector",
+        "peso": 0.1,
+        "precio": 222.40
+    }
+]

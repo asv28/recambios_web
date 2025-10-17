@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_egr/imagen.jpg",
+        "alt": "Válvula EGR 1",
+        "marca": "Marca A",
+        "codigo": "EGR001",
+        "tipo": "egr",
+        "peso": 1.2,
+        "precio": 150.00
+    },
+    {
+        "id": 2,
+        "img": "img/img_egr/imagen1.jpg",
+        "alt": "Válvula EGR 2",
+        "marca": "Marca B",
+        "codigo": "EGR002",
+        "tipo": "egr",
+        "peso": 1.5,
+        "precio": 180.00
+    },
+    {
+        "id": 3,
+        "img": "img/img_egr/imagen2.jpg",
+        "alt": "Válvula EGR 3",
+        "marca": "Marca C",
+        "codigo": "EGR003",
+        "tipo": "egr",
+        "peso": 1.8,
+        "precio": 200.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_egr/imagen3.jpg",
+        "alt": "Válvula EGR 4",
+        "marca": "Marca D",
+        "codigo": "EGR004",
+        "tipo": "egr",
+        "peso": 2.0,
+        "precio": 220.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_egr/imagen4.jpg",
+        "alt": "Válvula EGR 5",
+        "marca": "Marca E",
+        "codigo": "EGR005",
+        "tipo": "egr",
+        "peso": 2.2,
+        "precio": 250.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_egr/imagen.jpg",
+        "alt": "Válvula EGR 1",
+        "marca": "Marca A",
+        "codigo": "EGR001",
+        "tipo": "egr",
+        "peso": 1.2,
+        "precio": 150.00
+    },
+    {
+        "id": 7,
+        "img": "img/img_egr/imagen1.jpg",
+        "alt": "Válvula EGR 2",
+        "marca": "Marca B",
+        "codigo": "EGR002",
+        "tipo": "egr",
+        "peso": 1.5,
+        "precio": 180.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_egr/imagen2.jpg",
+        "alt": "Válvula EGR 3",
+        "marca": "Marca C",
+        "codigo": "EGR003",
+        "tipo": "egr",
+        "peso": 1.8,
+        "precio": 200.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_egr/imagen3.jpg",
+        "alt": "Válvula EGR 4",
+        "marca": "Marca D",
+        "codigo": "EGR004",
+        "tipo": "egr",
+        "peso": 2.0,
+        "precio": 220.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_egr/imagen4.jpg",
+        "alt": "Válvula EGR 5",
+        "marca": "Marca E",
+        "codigo": "EGR005",
+        "tipo": "egr",
+        "peso": 2.2,
+        "precio": 250.00
+    },
+    {
+        "id": 11,
+        "img": "img/img_egr/imagen.jpg",
+        "alt": "Válvula EGR 1",
+        "marca": "Marca A",
+        "codigo": "EGR001",
+        "tipo": "egr",
+        "peso": 1.2,
+        "precio": 150.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_egr/imagen1.jpg",
+        "alt": "Válvula EGR 2",
+        "marca": "Marca B",
+        "codigo": "EGR002",
+        "tipo": "egr",
+        "peso": 1.5,
+        "precio": 180.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_egr/imagen2.jpg",
+        "alt": "Válvula EGR 3",
+        "marca": "Marca C",
+        "codigo": "EGR003",
+        "tipo": "egr",
+        "peso": 1.8,
+        "precio": 200.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_egr/imagen3.jpg",
+        "alt": "Válvula EGR 4",
+        "marca": "Marca D",
+        "codigo": "EGR004",
+        "tipo": "egr",
+        "peso": 2.0,
+        "precio": 220.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_egr/imagen4.jpg",
+        "alt": "Válvula EGR 5",
+        "marca": "Marca E",
+        "codigo": "EGR005",
+        "tipo": "egr",
+        "peso": 2.2,
+        "precio": 250.00
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_cable_freno/imagen.jpg",
+        "alt": "Cable de freno Bosch 0 204 123 123",
+        "marca": "BOSCH",
+        "codigo": "0 204 123 123",
+        "tipo": "cables",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 2,
+        "img": "img/img_cable_freno/imagen1.jpg",
+        "alt": "Cable de freno ATE 24.2120-0012.3",
+        "marca": "ATE",
+        "codigo": "24.2120-0012.3",
+        "tipo": "cables",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 3,
+        "img": "img/img_cable_freno/imagen2.jpg",
+        "alt": "Cable de freno TRW PMA1001",
+        "marca": "TRW",
+        "codigo": "PMA1001",
+        "tipo": "cables",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_cable_freno/imagen3.jpg",
+        "alt": "Cable de freno Valeo 253002",
+        "marca": "VALEO",
+        "codigo": "253002",
+        "tipo": "cables",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 5,
+        "img": "img/img_cable_freno/imagen4.jpg",
+        "alt": "Cable de freno Luk 510 0016 10",
+        "marca": "LUK",
+        "codigo": "510 0016 10",
+        "tipo": "cables",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_cable_freno/imagen5.jpg",
+        "alt": "Cable de freno Aisin 1A0 355 000",
+        "marca": "AISIN",
+        "codigo": "1A0 355 000",
+        "tipo": "cables",
+        "peso": 0.4,
+        "precio": 12.50
+    },
+    {
+        "id": 7,
+        "img": "img/img_cable_freno/imagen.jpg",
+        "alt": "Cable de freno Bosch 0 204 123 123",
+        "marca": "BOSCH",
+        "codigo": "0 204 123 123",
+        "tipo": "cables",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 8,
+        "img": "img/img_cable_freno/imagen1.jpg",
+        "alt": "Cable de freno ATE 24.2120-0012.3",
+        "marca": "ATE",
+        "codigo": "24.2120-0012.3",
+        "tipo": "cables",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 9,
+        "img": "img/img_cable_freno/imagen2.jpg",
+        "alt": "Cable de freno TRW PMA1001",
+        "marca": "TRW",
+        "codigo": "PMA1001",
+        "tipo": "cables",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_cable_freno/imagen3.jpg",
+        "alt": "Cable de freno Valeo 253002",
+        "marca": "VALEO",
+        "codigo": "253002",
+        "tipo": "cables",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 11,
+        "img": "img/img_cable_freno/imagen4.jpg",
+        "alt": "Cable de freno Luk 510 0016 10",
+        "marca": "LUK",
+        "codigo": "510 0016 10",
+        "tipo": "cables",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_cable_freno/imagen5.jpg",
+        "alt": "Cable de freno Aisin 1A0 355 000",
+        "marca": "AISIN",
+        "codigo": "1A0 355 000",
+        "tipo": "cables",
+        "peso": 0.4,
+        "precio": 12.50
+    },
+    {
+        "id": 13,
+        "img": "img/img_cable_freno/imagen.jpg",
+        "alt": "Cable de freno Bosch 0 204 123 123",
+        "marca": "BOSCH",
+        "codigo": "0 204 123 123",
+        "tipo": "cables",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 14,
+        "img": "img/img_cable_freno/imagen1.jpg",
+        "alt": "Cable de freno ATE 24.2120-0012.3",
+        "marca": "ATE",
+        "codigo": "24.2120-0012.3",
+        "tipo": "cables",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 15,
+        "img": "img/img_cable_freno/imagen2.jpg",
+        "alt": "Cable de freno TRW PMA1001",
+        "marca": "TRW",
+        "codigo": "PMA1001",
+        "tipo": "cables",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 16,
+        "img": "img/img_cable_freno/imagen3.jpg",
+        "alt": "Cable de freno Valeo 253002",
+        "marca": "VALEO",
+        "codigo": "253002",
+        "tipo": "cables",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 17,
+        "img": "img/img_cable_freno/imagen4.jpg",
+        "alt": "Cable de freno Luk 510 0016 10",
+        "marca": "LUK",
+        "codigo": "510 0016 10",
+        "tipo": "cables",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 18,
+        "img": "img/img_cable_freno/imagen5.jpg",
+        "alt": "Cable de freno Aisin 1A0 355 000",
+        "marca": "AISIN",
+        "codigo": "1A0 355 000",
+        "tipo": "cables",
+        "peso": 0.4,
+        "precio": 12.50
+    }
+]

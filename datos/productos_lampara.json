@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_lamparas/imagen.jpg",
+        "alt": "Lampara faro HELLA 8GH 007 157-121",
+        "marca": "HELLA",
+        "codigo": "8GH 007 157-121",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 3.50
+    },
+    {
+        "id": 2,
+        "img": "img/img_lamparas/imagen1.jpg",
+        "alt": "Lampara faro OSRAM 64215",
+        "marca": "OSRAM",
+        "codigo": "64215",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 5.99
+    },
+    {
+        "id": 3,
+        "img": "img/img_lamparas/imagen2.jpg",
+        "alt": "Lampara faro HELLA 8GH 007 358-121",
+        "marca": "HELLA",
+        "codigo": "8GH 007 358-121",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 4.50
+    },
+    {
+        "id": 4,
+        "img": "img/img_lamparas/imagen3.jpg",
+        "alt": "Lampara faro HELLA 8GH 007 356-121",
+        "marca": "HELLA",
+        "codigo": "8GH 007 356-121",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 4.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_lamparas/imagen4.jpg",
+        "alt": "Lampara faro OSRAM 64211",
+        "marca": "OSRAM",
+        "codigo": "64211",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 6.50
+    },
+    {
+        "id": 6,
+        "img": "img/img_lamparas/imagen.jpg",
+        "alt": "Lampara faro HELLA 8GH 007 157-121",
+        "marca": "HELLA",
+        "codigo": "8GH 007 157-121",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 3.50
+    },
+    {
+        "id": 7,
+        "img": "img/img_lamparas/imagen1.jpg",
+        "alt": "Lampara faro OSRAM 64215",
+        "marca": "OSRAM",
+        "codigo": "64215",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 5.99
+    },
+    {
+        "id": 8,
+        "img": "img/img_lamparas/imagen2.jpg",
+        "alt": "Lampara faro HELLA 8GH 007 358-121",
+        "marca": "HELLA",
+        "codigo": "8GH 007 358-121",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 4.50
+    },
+    {
+        "id": 9,
+        "img": "img/img_lamparas/imagen3.jpg",
+        "alt": "Lampara faro HELLA 8GH 007 356-121",
+        "marca": "HELLA",
+        "codigo": "8GH 007 356-121",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 4.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_lamparas/imagen4.jpg",
+        "alt": "Lampara faro OSRAM 64211",
+        "marca": "OSRAM",
+        "codigo": "64211",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 6.50
+    },
+    {
+        "id": 11,
+        "img": "img/img_lamparas/imagen.jpg",
+        "alt": "Lampara faro HELLA 8GH 007 157-121",
+        "marca": "HELLA",
+        "codigo": "8GH 007 157-121",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 3.50
+    },
+    {
+        "id": 12,
+        "img": "img/img_lamparas/imagen1.jpg",
+        "alt": "Lampara faro OSRAM 64215",
+        "marca": "OSRAM",
+        "codigo": "64215",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 5.99
+    },
+    {
+        "id": 13,
+        "img": "img/img_lamparas/imagen2.jpg",
+        "alt": "Lampara faro HELLA 8GH 007 358-121",
+        "marca": "HELLA",
+        "codigo": "8GH 007 358-121",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 4.50
+    },
+    {
+        "id": 14,
+        "img": "img/img_lamparas/imagen3.jpg",
+        "alt": "Lampara faro HELLA 8GH 007 356-121",
+        "marca": "HELLA",
+        "codigo": "8GH 007 356-121",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 4.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_lamparas/imagen4.jpg",
+        "alt": "Lampara faro OSRAM 64211",
+        "marca": "OSRAM",
+        "codigo": "64211",
+        "tipo": "lampara",
+        "peso": 0.5,
+        "precio": 6.50
+    }      
+]

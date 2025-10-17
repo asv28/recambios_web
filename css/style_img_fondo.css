@@ -1,0 +1,36 @@
+.distribucion {
+    background-image: url('/img/img_correas/img_fondo.jpg');
+
+}
+
+.embrague {
+    background-image: url('/img/img_embrague/imagen_fondo.jpg');
+}
+
+.escape {
+    background-image: url('/img/img_escape/imagen_fondo.jpg');
+}
+
+.filtro {
+    background-image: url('/img/img_filtro_aceite/imagen_fondo.jpg');
+}
+
+.frenado {
+    background-image: url('/img/img_disco_freno/imagen_fondo.jpg');
+}
+
+.herramientas {
+    background-image: url('/img/img_herramientas/imagen_fondo.jpg');
+}
+
+.motor {
+    background-image: url('/img/img_correas/img_fondo.jpg');
+}
+
+.optica {
+    background-image: url('/img/img_optica/imagen_fondo.jpg');
+}
+
+.suspension {
+    background-image: url('/img/img_suspension/imagen_fondo.jpg');
+}

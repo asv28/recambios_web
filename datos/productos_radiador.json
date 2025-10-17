@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_radiador/imagen.jpg",
+        "alt": "Radiador de agua NRF 47100",
+        "marca": "NRF",
+        "codigo": "47100",
+        "tipo": "radiador",
+        "peso": 3.5,
+        "precio": 50.00
+    },
+    {
+        "id": 2,
+        "img": "img/img_radiador/imagen1.jpg",
+        "alt": "Radiador de agua Valeo 730000",
+        "marca": "VALEO",
+        "codigo": "730000",
+        "tipo": "radiador",
+        "peso": 3.8,
+        "precio": 55.00
+    },
+    {
+        "id": 3,
+        "img": "img/img_radiador/imagen2.jpg",
+        "alt": "Radiador de agua Behr Hella 8MK 376 711-001",
+        "marca": "BEHR HELLA",
+        "codigo": "8MK 376 711-001",
+        "tipo": "radiador",
+        "peso": 4.0,
+        "precio": 60.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_radiador/imagen3.jpg",
+        "alt": "Radiador de agua Denso 447-1001",
+        "marca": "DENSO",
+        "codigo": "447-1001",
+        "tipo": "radiador",
+        "peso": 3.9,
+        "precio": 58.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_radiador/imagen4.jpg",
+        "alt": "Radiador de agua Nissens 60620A",
+        "marca": "NISSENS",
+        "codigo": "60620A",
+        "tipo": "radiador",
+        "peso": 4.2,
+        "precio": 65.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_radiador/imagen.jpg",
+        "alt": "Radiador de agua NRF 47100",
+        "marca": "NRF",
+        "codigo": "47100",
+        "tipo": "radiador",
+        "peso": 3.5,
+        "precio": 50.00
+    },
+    {
+        "id": 7,
+        "img": "img/img_radiador/imagen1.jpg",
+        "alt": "Radiador de agua Valeo 730000",
+        "marca": "VALEO",
+        "codigo": "730000",
+        "tipo": "radiador",
+        "peso": 3.8,
+        "precio": 55.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_radiador/imagen2.jpg",
+        "alt": "Radiador de agua Behr Hella 8MK 376 711-001",
+        "marca": "BEHR HELLA",
+        "codigo": "8MK 376 711-001",
+        "tipo": "radiador",
+        "peso": 4.0,
+        "precio": 60.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_radiador/imagen3.jpg",
+        "alt": "Radiador de agua Denso 447-1001",
+        "marca": "DENSO",
+        "codigo": "447-1001",
+        "tipo": "radiador",
+        "peso": 3.9,
+        "precio": 58.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_radiador/imagen4.jpg",
+        "alt": "Radiador de agua Nissens 60620A",
+        "marca": "NISSENS",
+        "codigo": "60620A",
+        "tipo": "radiador",
+        "peso": 4.2,
+        "precio": 65.00
+    },
+    {
+        "id": 11,
+        "img": "img/img_radiador/imagen.jpg",
+        "alt": "Radiador de agua NRF 47100",
+        "marca": "NRF",
+        "codigo": "47100",
+        "tipo": "radiador",
+        "peso": 3.5,
+        "precio": 50.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_radiador/imagen1.jpg",
+        "alt": "Radiador de agua Valeo 730000",
+        "marca": "VALEO",
+        "codigo": "730000",
+        "tipo": "radiador",
+        "peso": 3.8,
+        "precio": 55.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_radiador/imagen2.jpg",
+        "alt": "Radiador de agua Behr Hella 8MK 376 711-001",
+        "marca": "BEHR HELLA",
+        "codigo": "8MK 376 711-001",
+        "tipo": "radiador",
+        "peso": 4.0,
+        "precio": 60.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_radiador/imagen3.jpg",
+        "alt": "Radiador de agua Denso 447-1001",
+        "marca": "DENSO",
+        "codigo": "447-1001",
+        "tipo": "radiador",
+        "peso": 3.9,
+        "precio": 58.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_radiador/imagen4.jpg",
+        "alt": "Radiador de agua Nissens 60620A",
+        "marca": "NISSENS",
+        "codigo": "60620A",
+        "tipo": "radiador",
+        "peso": 4.2,
+        "precio": 65.00
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_pastillas/imagen.jpg",
+        "alt": "Pastilla de freno BREMBO 0986494052",
+        "marca": "BREMBO",
+        "codigo": "0986494052",
+        "tipo": "pastillas",
+        "peso": 1.2,
+        "precio": 50.00
+    },
+    {
+        "id": 2,
+        "img": "img/img_pastillas/imagen1.jpg",
+        "alt": "Pastilla de freno TRW GDB1332",
+        "marca": "TRW",
+        "codigo": "GDB1332",
+        "tipo": "pastillas",
+        "peso": 1.0,
+        "precio": 45.00
+    },
+    {
+        "id": 3,
+        "img": "img/img_pastillas/imagen2.jpg",
+        "alt": "Pastilla de freno ATE 13.0460-7214.2",
+        "marca": "ATE",
+        "codigo": "13.0460-7214.2",
+        "tipo": "pastillas",
+        "peso": 1.5,
+        "precio": 55.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_pastillas/imagen3.jpg",
+        "alt": "Pastilla de freno FERODO FDB1938",
+        "marca": "FERODO",
+        "codigo": "FDB1938",
+        "tipo": "pastillas",
+        "peso": 1.3,
+        "precio": 52.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_pastillas/imagen4.jpg",
+        "alt": "Pastilla de freno BOSCH 0986494052",
+        "marca": "BOSCH",
+        "codigo": "0986494052",
+        "tipo": "pastillas",
+        "peso": 1.4,
+        "precio": 53.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_pastillas/imagen5.jpg",
+        "alt": "Pastilla de freno TEXTAR 2355401",
+        "marca": "TEXTAR",
+        "codigo": "2355401",
+        "tipo": "pastillas",
+        "peso": 1.6,
+        "precio": 57.00
+    },
+    {
+        "id": 7,
+        "img": "img/img_pastillas/imagen.jpg",
+        "alt": "Pastilla de freno BREMBO 0986494052",
+        "marca": "BREMBO",
+        "codigo": "0986494052",
+        "tipo": "pastillas",
+        "peso": 1.2,
+        "precio": 50.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_pastillas/imagen1.jpg",
+        "alt": "Pastilla de freno TRW GDB1332",
+        "marca": "TRW",
+        "codigo": "GDB1332",
+        "tipo": "pastillas",
+        "peso": 1.0,
+        "precio": 45.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_pastillas/imagen2.jpg",
+        "alt": "Pastilla de freno ATE 13.0460-7214.2",
+        "marca": "ATE",
+        "codigo": "13.0460-7214.2",
+        "tipo": "pastillas",
+        "peso": 1.5,
+        "precio": 55.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_pastillas/imagen3.jpg",
+        "alt": "Pastilla de freno FERODO FDB1938",
+        "marca": "FERODO",
+        "codigo": "FDB1938",
+        "tipo": "pastillas",
+        "peso": 1.3,
+        "precio": 52.00
+    },
+    {
+        "id": 11,
+        "img": "img/img_pastillas/imagen4.jpg",
+        "alt": "Pastilla de freno BOSCH 0986494052",
+        "marca": "BOSCH",
+        "codigo": "0986494052",
+        "tipo": "pastillas",
+        "peso": 1.4,
+        "precio": 53.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_pastillas/imagen5.jpg",
+        "alt": "Pastilla de freno TEXTAR 2355401",
+        "marca": "TEXTAR",
+        "codigo": "2355401",
+        "tipo": "pastillas",
+        "peso": 1.6,
+        "precio": 57.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_pastillas/imagen.jpg",
+        "alt": "Pastilla de freno BREMBO 0986494052",
+        "marca": "BREMBO",
+        "codigo": "0986494052",
+        "tipo": "pastillas",
+        "peso": 1.2,
+        "precio": 50.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_pastillas/imagen1.jpg",
+        "alt": "Pastilla de freno TRW GDB1332",
+        "marca": "TRW",
+        "codigo": "GDB1332",
+        "tipo": "pastillas",
+        "peso": 1.0,
+        "precio": 45.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_pastillas/imagen2.jpg",
+        "alt": "Pastilla de freno ATE 13.0460-7214.2",
+        "marca": "ATE",
+        "codigo": "13.0460-7214.2",
+        "tipo": "pastillas",
+        "peso": 1.5,
+        "precio": 55.00
+    },
+    {
+        "id": 16,
+        "img": "img/img_pastillas/imagen3.jpg",
+        "alt": "Pastilla de freno FERODO FDB1938",
+        "marca": "FERODO",
+        "codigo": "FDB1938",
+        "tipo": "pastillas",
+        "peso": 1.3,
+        "precio": 52.00
+    },
+    {
+        "id": 17,
+        "img": "img/img_pastillas/imagen4.jpg",
+        "alt": "Pastilla de freno BOSCH 0986494052",
+        "marca": "BOSCH",
+        "codigo": "0986494052",
+        "tipo": "pastillas",
+        "peso": 1.4,
+        "precio": 53.00
+    },
+    {
+        "id": 18,
+        "img": "img/img_pastillas/imagen5.jpg",
+        "alt": "Pastilla de freno TEXTAR 2355401",
+        "marca": "TEXTAR",
+        "codigo": "2355401",
+        "tipo": "pastillas",
+        "peso": 1.6,
+        "precio": 57.00
+    }
+]

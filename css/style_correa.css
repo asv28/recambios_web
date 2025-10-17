@@ -1,0 +1,197 @@
+@import url('/css/style.css');
+@import url('/css/style_img_fondo.css');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-image: url('/img/img_correas/img_fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+}
+
+.contenedor1 {
+    display: flex;
+    padding: 40px;
+}
+
+.izquierda {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;  
+    background-color: #333;
+    width: 20%;
+    height: 100%;
+    border-radius: 10px;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.izquierda h1 {
+    background-color: yellow;
+    padding: 10px;
+}
+
+.izquierda h3 {
+    display: flex;
+    justify-content: start;
+    margin: 10px;
+}
+.marcas-medidas {
+    display: inline-block;
+    background-color: rgb(64, 184, 168);
+}
+
+.marcas, .medidas {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    height: 200px;
+    overflow-y: auto;
+}
+
+.marcas input {
+    display: flex;
+    margin: 0px;
+    width: 20px;
+}
+  
+main {
+    border-radius: 10px;
+    background-color: #333;
+    margin-top: 100px;
+    margin-left: 20px;
+    
+}
+
+.producto {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    width: 100%;
+    height: 100%;
+}
+
+
+.item {
+    display: flex;
+    flex-direction:row;
+    justify-content: start;
+    align-items: start;
+    background-color: aquamarine;
+    width: 98%; 
+    height: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.item img {
+    border-radius: 5px;
+    width: 200px;
+    height: 150px;
+    margin: 35px 0 0 0;
+}
+
+.articulo {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    width: 100%;
+    padding: 20px 10px 10px 10px; 
+    margin: 10px;  
+}
+
+
+.articulo p {
+    font-weight: bold;
+    font-size: 1.2em;
+    display: flex;
+    justify-content: right;
+}
+
+.articulo h4 {
+    display: flex;
+    justify-content: start;
+    margin: 10px 40px; 
+    margin-top: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.articulo h5 {
+    display: flex;
+    justify-content: start;
+    margin: 10px;
+    color: black;
+}
+
+.precio {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    text-align: right;    
+    font-weight: bold;
+    color: black;
+}
+
+.precio h2 {
+    margin-top: 20px;
+}
+
+.precio h5 {
+    margin-top: 10px;
+    color: rgb(37, 36, 36);
+}
+
+.precio h4 {
+    color: rgb(42, 42, 129) ;
+    margin-top: 20px;
+}
+
+.recuadro {
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    background-color: yellow;
+    width: 100%;
+    margin-right: 180px;
+    border-radius: 5px;
+}
+
+.recuadro p {
+    font-weight: bold;
+    font-size: 1em;
+    display: flex;
+    margin: 10px 16px;
+}
+
+.contenedor-boton {
+    height: 50px;
+    margin: 10px;
+}
+
+.boton-carrito {
+    background-color: rgb(42, 42, 129);
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0,3s;
+}
+
+.boton-carrito:hover {
+    background-color:  red; 
+}

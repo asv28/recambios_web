@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_disco_embrague/imagen.jpg",
+        "marca": "TRW",
+        "codigo": "JAR1001",
+        "tipo": "disco_embrague",
+        "peso": 1.2,
+        "precio": 25.50
+    },
+    {
+        "id": 2,
+        "img": "img/img_disco_embrague/imagen1.jpg",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "12345",
+        "tipo": "disco_embrague",
+        "peso": 1.5,
+        "precio": 30.00
+    },
+    {
+        "id": 3,
+        "img": "img/img_disco_embrague/imagen2.jpg",
+        "marca": "SKF",
+        "codigo": "VKPC 81410",
+        "tipo": "disco_embrague",
+        "peso": 1.3,
+        "precio": 28.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_disco_embrague/imagen3.jpg",
+        "marca": "LEMFORDER",
+        "codigo": "1234567890",
+        "tipo": "disco_embrague",
+        "peso": 1.4,
+        "precio": 32.50
+    },
+    {
+        "id": 5,
+        "img": "img/img_disco_embrague/imagen4.jpg",
+        "marca": "LUK",
+        "codigo": "ES8001",
+        "tipo": "disco_embrague",
+        "peso": 1.6,
+        "precio": 35.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_disco_embrague/imagen.jpg",
+        "marca": "TRW",
+        "codigo": "JAR1001",
+        "tipo": "disco_embrague",
+        "peso": 1.2,
+        "precio": 25.50
+    },
+    {
+        "id": 7,
+        "img": "img/img_disco_embrague/imagen1.jpg",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "12345",
+        "tipo": "disco_embrague",
+        "peso": 1.5,
+        "precio": 30.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_disco_embrague/imagen2.jpg",
+        "marca": "SKF",
+        "codigo": "VKPC 81410",
+        "tipo": "disco_embrague",
+        "peso": 1.3,
+        "precio": 28.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_disco_embrague/imagen3.jpg",
+        "marca": "LEMFORDER",
+        "codigo": "1234567890",
+        "tipo": "disco_embrague",
+        "peso": 1.4,
+        "precio": 32.50
+    },
+    {
+        "id": 10,
+        "img": "img/img_disco_embrague/imagen4.jpg",
+        "marca": "LUK",
+        "codigo": "ES8001",
+        "tipo": "disco_embrague",
+        "peso": 1.6,
+        "precio": 35.00
+    },
+    {
+        "id": 11,
+        "img": "img/img_disco_embrague/imagen.jpg",
+        "marca": "TRW",
+        "codigo": "JAR1001",
+        "tipo": "disco_embrague",
+        "peso": 1.2,
+        "precio": 25.50
+    },
+    {
+        "id": 12,
+        "img": "img/img_disco_embrague/imagen1.jpg",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "12345",
+        "tipo": "disco_embrague",
+        "peso": 1.5,
+        "precio": 30.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_disco_embrague/imagen2.jpg",
+        "marca": "SKF",
+        "codigo": "VKPC 81410",
+        "tipo": "disco_embrague",
+        "peso": 1.3,
+        "precio": 28.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_disco_embrague/imagen3.jpg",
+        "marca": "LEMFORDER",
+        "codigo": "1234567890",
+        "tipo": "disco_embrague",
+        "peso": 1.4,
+        "precio": 32.50
+    },
+    {
+        "id": 15,
+        "img": "img/img_disco_embrague/imagen4.jpg",
+        "marca": "LUK",
+        "codigo": "ES8001",
+        "tipo": "disco_embrague",
+        "peso": 1.6,
+        "precio": 35.00
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_catalizadores/imagen.jpg",
+        "alt": "Catalizador Bosal 2000",
+        "marca": "BOSAL",
+        "codigo": "2000",
+        "tipo": "catalizadores",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 2,
+        "img": "img/img_catalizadores/imagen1.jpg",
+        "alt": "Catalizador Walker 3000",
+        "marca": "WALKER",
+        "codigo": "3000",
+        "tipo": "catalizadores",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 3,
+        "img": "img/img_catalizadores/imagen2.jpg",
+        "alt": "Catalizador Eberspächer 4000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "4000",
+        "tipo": "catalizadores",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_catalizadores/imagen3.jpg",
+        "alt": "Catalizador Bosal 5000",
+        "marca": "BOSAL",
+        "codigo": "5000",
+        "tipo": "catalizadores",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_catalizadores/imagen4.jpg",
+        "alt": "Catalizador Walker 6000",
+        "marca": "WALKER",
+        "codigo": "6000",
+        "tipo": "catalizadores",
+        "peso": 9.0,
+        "precio": 250.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_catalizadores/imagen.jpg",
+        "alt": "Catalizador Bosal 2000",
+        "marca": "BOSAL",
+        "codigo": "2000",
+        "tipo": "catalizadores",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 7,
+        "img": "img/img_catalizadores/imagen1.jpg",
+        "alt": "Catalizador Walker 3000",
+        "marca": "WALKER",
+        "codigo": "3000",
+        "tipo": "catalizadores",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_catalizadores/imagen2.jpg",
+        "alt": "Catalizador Eberspächer 4000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "4000",
+        "tipo": "catalizadores",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_catalizadores/imagen3.jpg",
+        "alt": "Catalizador Bosal 5000",
+        "marca": "BOSAL",
+        "codigo": "5000",
+        "tipo": "catalizadores",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_catalizadores/imagen4.jpg",
+        "alt": "Catalizador Walker 6000",
+        "marca": "WALKER",
+        "codigo": "6000",
+        "tipo": "catalizadores",
+        "peso": 9.0,
+        "precio": 250.00
+    },
+    {
+        "id": 11,
+        "img": "img/img_catalizadores/imagen.jpg",
+        "alt": "Catalizador Bosal 2000",
+        "marca": "BOSAL",
+        "codigo": "2000",
+        "tipo": "catalizadores",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_catalizadores/imagen1.jpg",
+        "alt": "Catalizador Walker 3000",
+        "marca": "WALKER",
+        "codigo": "3000",
+        "tipo": "catalizadores",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_catalizadores/imagen2.jpg",
+        "alt": "Catalizador Eberspächer 4000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "4000",
+        "tipo": "catalizadores",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_catalizadores/imagen3.jpg",
+        "alt": "Catalizador Bosal 5000",
+        "marca": "BOSAL",
+        "codigo": "5000",
+        "tipo": "catalizadores",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_catalizadores/imagen4.jpg",
+        "alt": "Catalizador Walker 6000",
+        "marca": "WALKER",
+        "codigo": "6000",
+        "tipo": "catalizadores",
+        "peso": 9.0,
+        "precio": 250.00
+    }
+]

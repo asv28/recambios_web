@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_bombillas/imagen.jpg",
+        "alt": "Bombilla Philips 9W E27",
+        "marca": "PHILIPS",
+        "codigo": "9W E27",    
+        "tipo": "bombillas",
+        "peso": 0.1,
+        "precio": 2.99
+    },
+    {   
+        "id": 2,
+        "img": "img/img_bombillas/imagen1.jpg",
+        "alt": "Bombilla Osram 10W E27",
+        "marca": "OSRAM",
+        "codigo": "10W E27",
+        "tipo": "bombillas",
+        "peso": 0.2,
+        "precio": 3.50
+    },
+    {   
+        "id": 3,
+        "img": "img/img_bombillas/imagen2.jpg",
+        "alt": "Bombilla GE 8W E27",
+        "marca": "GE",
+        "codigo": "8W E27",
+        "tipo": "bombillas",
+        "peso": 0.1,
+        "precio": 2.75
+    },
+    {   
+        "id": 4,
+        "img": "img/img_bombillas/imagen3.jpg",
+        "alt": "Bombilla Sylvania 12W E27",
+        "marca": "SYLVANIA",
+        "codigo": "12W E27",
+        "tipo": "bombillas",
+        "peso": 0.1,
+        "precio": 3.25
+    },
+    {
+        "id": 5,
+        "img": "img/img_bombillas/imagen4.jpg",
+        "alt": "Bombilla Cree 15W E27",
+        "marca": "CREE",
+        "codigo": "15W E27",
+        "tipo": "bombillas",
+        "peso": 0.1,
+        "precio": 3.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_bombillas/imagen5.jpg",
+        "alt": "Bombilla Philips 9W E27",
+        "marca": "PHILIPS", 
+        "codigo": "9W E27",
+        "tipo": "bombillas",
+        "peso": 0.1,
+        "precio": 2.99
+    },
+    {
+        "id": 7,
+        "img": "img/img_bombillas/imagen.jpg",
+        "alt": "Bombilla Philips 9W E27",
+        "marca": "PHILIPS",
+        "codigo": "9W E27",    
+        "tipo": "bombillas",
+        "peso": 0.1,
+        "precio": 2.99
+    },
+    {
+        "id": 8,
+        "img": "img/img_bombillas/imagen1.jpg",
+        "alt": "Bombilla Osram 10W E27",
+        "marca": "OSRAM",
+        "codigo": "10W E27",
+        "tipo": "bombillas",
+        "peso": 0.2,
+        "precio": 3.50
+    },
+    {   
+        "id": 9,
+        "img": "img/img_bombillas/imagen2.jpg",
+        "alt": "Bombilla GE 8W E27",
+        "marca": "GE",
+        "codigo": "8W E27",
+        "tipo": "bombillas",
+        "peso": 0.1,
+        "precio": 2.75
+    },
+    {   
+        "id": 10,
+        "img": "img/img_bombillas/imagen3.jpg",
+        "alt": "Bombilla Sylvania 12W E27",
+        "marca": "SYLVANIA",
+        "codigo": "12W E27",
+        "tipo": "bombillas",
+        "peso": 0.1,
+        "precio": 3.25
+    },
+    {   
+        "id": 11,
+        "img": "img/img_bombillas/imagen4.jpg",
+        "alt": "Bombilla Cree 15W E27",
+        "marca": "CREE",
+        "codigo": "15W E27",
+        "tipo": "bombillas",
+        "peso": 0.4,
+        "precio": 3.00
+    },
+    {   
+        "id": 12,
+        "img": "img/img_bombillas/imagen5.jpg",
+        "alt": "Bombilla Philips 9W E27",
+        "marca": "PHILIPS", 
+        "codigo": "9W E27",
+        "tipo": "bombillas",
+        "peso": 0.1,
+        "precio": 2.99
+    },
+    {
+        "id": 13,
+        "img": "img/img_bombillas/imagen.jpg",
+        "alt": "Bombilla Philips 9W E27",
+        "marca": "PHILIPS",
+        "codigo": "9W E27",    
+        "tipo": "bombillas",
+        "peso": 0.1,
+        "precio": 2.99
+    },
+    {
+        "id": 14,
+        "img": "img/img_bombillas/imagen1.jpg",
+        "alt": "Bombilla Osram 10W E27",
+        "marca": "OSRAM",
+        "codigo": "10W E27",
+        "tipo": "bombillas",
+        "peso": 0.2,
+        "precio": 3.50
+    },
+    {
+        "id": 15,
+        "img": "img/img_bombillas/imagen2.jpg",
+        "alt": "Bombilla GE 8W E27",
+        "marca": "GE",
+        "codigo": "8W E27",
+        "tipo": "bombillas",
+        "peso": 0.1,
+        "precio": 2.75
+    },
+    {
+        "id": 16,
+        "img": "img/img_bombillas/imagen3.jpg",
+        "alt": "Bombilla Sylvania 12W E27",
+        "marca": "SYLVANIA",
+        "codigo": "12W E27",
+        "tipo": "bombillas",
+        "peso": 0.1,
+        "precio": 3.25
+    },
+    {   
+        "id": 17,
+        "img": "img/img_bombillas/imagen4.jpg",
+        "alt": "Bombilla Cree 15W E27",
+        "marca": "CREE",
+        "codigo": "15W E27",
+        "tipo": "bombillas",
+        "peso": 0.4,
+        "precio": 3.00
+    },
+    {   
+        "id": 18,
+        "img": "img/img_bombillas/imagen5.jpg",
+        "alt": "Bombilla Philips 9W E27",
+        "marca": "PHILIPS", 
+        "codigo": "9W E27",
+        "tipo": "bombillas",
+        "peso": 0.1,
+        "precio": 2.99
+    }
+]

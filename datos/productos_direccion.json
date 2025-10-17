@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_fuelles/imagen.jpg",
+        "alt": "Fuelle de dirección TRW JAR1001",
+        "marca": "TRW",
+        "codigo": "JAR1001",
+        "tipo": "direccion",
+        "peso": 1.2,
+        "precio": 25.50
+    },
+    {
+        "id": 2,
+        "img": "img/img_fuelles/imagen1.jpg",
+        "alt": "Fuelle de dirección Febi Bilstein 12345",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "12345",
+        "tipo": "direccion",
+        "peso": 1.5,
+        "precio": 30.00
+    },
+    {
+        "id": 3,
+        "img": "img/img_fuelles/imagen2.jpg",
+        "alt": "Fuelle de dirección SKF VKPC 81410",
+        "marca": "SKF",
+        "codigo": "VKPC 81410",
+        "tipo": "direccion",
+        "peso": 1.3,
+        "precio": 28.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_fuelles/imagen3.jpg",
+        "alt": "Fuelle de dirección Lemforder 1234567890",
+        "marca": "LEMFORDER",
+        "codigo": "1234567890",
+        "tipo": "direccion",
+        "peso": 1.4,
+        "precio": 32.50
+    },
+    {
+        "id": 5,
+        "img": "img/img_fuelles/imagen4.jpg",
+        "alt": "Fuelle de dirección Moog ES8001",
+        "marca": "MOOG",
+        "codigo": "ES8001",
+        "tipo": "direccion",
+        "peso": 1.6,
+        "precio": 35.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_fuelles/imagen.jpg",
+        "alt": "Fuelle de dirección TRW JAR1001",
+        "marca": "TRW",
+        "codigo": "JAR1001",
+        "tipo": "direccion",
+        "peso": 1.2,
+        "precio": 25.50
+    },
+    {
+        "id": 7,
+        "img": "img/img_fuelles/imagen1.jpg",
+        "alt": "Fuelle de dirección Febi Bilstein 12345",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "12345",
+        "tipo": "direccion",
+        "peso": 1.5,
+        "precio": 30.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_fuelles/imagen2.jpg",
+        "alt": "Fuelle de dirección SKF VKPC 81410",
+        "marca": "SKF",
+        "codigo": "VKPC 81410",
+        "tipo": "direccion",
+        "peso": 1.3,
+        "precio": 28.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_fuelles/imagen3.jpg",
+        "alt": "Fuelle de dirección Lemforder 1234567890",
+        "marca": "LEMFORDER",
+        "codigo": "1234567890",
+        "tipo": "direccion",
+        "peso": 1.4,
+        "precio": 32.50
+    },
+    {
+        "id": 10,
+        "img": "img/img_fuelles/imagen4.jpg",
+        "alt": "Fuelle de dirección Moog ES8001",
+        "marca": "MOOG",
+        "codigo": "ES8001",
+        "tipo": "direccion",
+        "peso": 1.6,
+        "precio": 35.00
+    },
+    {
+        "id": 11,
+        "img": "img/img_fuelles/imagen.jpg",
+        "alt": "Fuelle de dirección TRW JAR1001",
+        "marca": "TRW",
+        "codigo": "JAR1001",
+        "tipo": "direccion",
+        "peso": 1.2,
+        "precio": 25.50
+    },
+    {
+        "id": 12,
+        "img": "img/img_fuelles/imagen1.jpg",
+        "alt": "Fuelle de dirección Febi Bilstein 12345",
+        "marca": "FEBI BILSTEIN",
+        "codigo": "12345",
+        "tipo": "direccion",
+        "peso": 1.5,
+        "precio": 30.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_fuelles/imagen2.jpg",
+        "alt": "Fuelle de dirección SKF VKPC 81410",
+        "marca": "SKF",
+        "codigo": "VKPC 81410",
+        "tipo": "direccion",
+        "peso": 1.3,
+        "precio": 28.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_fuelles/imagen3.jpg",
+        "alt": "Fuelle de dirección Lemforder 1234567890",
+        "marca": "LEMFORDER",
+        "codigo": "1234567890",
+        "tipo": "direccion",
+        "peso": 1.4,
+        "precio": 32.50
+    },
+    {
+        "id": 15,
+        "img": "img/img_fuelles/imagen4.jpg",
+        "alt": "Fuelle de dirección Moog ES8001",
+        "marca": "MOOG",
+        "codigo": "ES8001",
+        "tipo": "direccion",
+        "peso": 1.6,
+        "precio": 35.00
+    }
+]

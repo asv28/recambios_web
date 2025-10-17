@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_rodamientos/imagen.jpg",
+        "alt": "Cojinete SKF 6203",
+        "marca": "SKF",
+        "codigo": "6203",
+        "tipo": "rodamientos",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 2,
+        "img": "img/img_rodamientos/imagen1.jpg",
+        "alt": "Cojinete SKF 6203",
+        "marca": "SKF",
+        "codigo": "6203",
+        "tipo": "rodamientos",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 3,
+        "img": "img/img_rodamientos/imagen2.jpg",
+        "alt": "Cojinete SNR 6204",
+        "marca": "SNR",
+        "codigo": "6204",
+        "tipo": "rodamientos",
+        "peso": 0.6,
+        "precio": 18.50 
+    },
+    {
+        "id": 4,
+        "img": "img/img_rodamientos/imagen3.jpg",
+        "alt": "Cojinete GSP GK1358",
+        "marca": "GSP",
+        "codigo": "GK1358",
+        "tipo": "rodamientos",
+        "peso": 0.7,
+        "precio": 21.15
+    },
+    {
+        "id": 5,
+        "img": "img/img_rodamientos/imagen4.jpg", 
+        "alt": "Cojinete TALOSA 81-VW0259",
+        "marca": "TALOSA",
+        "codigo": "81-VW0259",
+        "tipo": "rodamientos",
+        "peso": 0.8,    
+        "precio": 49.99
+    },
+    {
+        "id": 6,
+        "img": "img/img_rodamientos/imagen.jpg",
+        "alt": "Cojinete SKF 6203",
+        "marca": "SKF",
+        "codigo": "6203",
+        "tipo": "rodamientos",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 7,
+        "img": "img/img_rodamientos/imagen1.jpg",
+        "alt": "Cojinete SKF 6203",
+        "marca": "SKF",
+        "codigo": "6203",
+        "tipo": "rodamientos",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 8,
+        "img": "img/img_rodamientos/imagen2.jpg",
+        "alt": "Cojinete SNR 6204",
+        "marca": "SNR",
+        "codigo": "6204",
+        "tipo": "rodamientos",
+        "peso": 0.6,
+        "precio": 18.50 
+    },
+    {
+        "id": 9,
+        "img": "img/img_rodamientos/imagen3.jpg",
+        "alt": "Cojinete GSP GK1358",
+        "marca": "GSP",
+        "codigo": "GK1358",
+        "tipo": "rodamientos",
+        "peso": 0.7,
+        "precio": 21.15
+    },
+    {
+        "id": 10,
+        "img": "img/img_rodamientos/imagen4.jpg", 
+        "alt": "Cojinete TALOSA 81-VW0259",
+        "marca": "TALOSA",
+        "codigo": "81-VW0259",
+        "tipo": "rodamientos",
+        "peso": 0.8,    
+        "precio": 49.99
+    },
+    {
+        "id": 11,
+        "img": "img/img_rodamientos/imagen.jpg",
+        "alt": "Cojinete SKF 6203",
+        "marca": "SKF",
+        "codigo": "6203",
+        "tipo": "rodamientos",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 12,
+        "img": "img/img_rodamientos/imagen1.jpg",
+        "alt": "Cojinete SKF 6203",
+        "marca": "SKF",
+        "codigo": "6203",
+        "tipo": "rodamientos",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 13,
+        "img": "img/img_rodamientos/imagen2.jpg",
+        "alt": "Cojinete SNR 6204",
+        "marca": "SNR",
+        "codigo": "6204",
+        "tipo": "rodamientos",
+        "peso": 0.6,
+        "precio": 18.50 
+    },
+    {
+        "id": 14,
+        "img": "img/img_rodamientos/imagen3.jpg",
+        "alt": "Cojinete GSP GK1358",
+        "marca": "GSP",
+        "codigo": "GK1358",
+        "tipo": "rodamientos",
+        "peso": 0.7,
+        "precio": 21.15
+    },
+    {
+        "id": 15,
+        "img": "img/img_rodamientos/imagen4.jpg", 
+        "alt": "Cojinete TALOSA 81-VW0259",
+        "marca": "TALOSA",
+        "codigo": "81-VW0259",
+        "tipo": "rodamientos",
+        "peso": 0.8,    
+        "precio": 49.99
+    }
+]

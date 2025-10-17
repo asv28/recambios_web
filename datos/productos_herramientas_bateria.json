@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_herram_bateria/imagen.jpg",
+        "alt": "Borne de bateria TRICLO 964023",
+        "marca": "TRICLO",
+        "codigo": "964023",
+        "tipo": "herramientas_bateria",
+        "peso": 0.5,
+        "precio": 2.86
+    },
+    {
+        "id": 2,
+        "img": "img/img_herram_bateria/imagen1.jpg",
+        "alt": "Borne de bateria HELLA 8KX 747 875-011",
+        "marca": "HELLA",
+        "codigo": "8KX 747 875-011",
+        "tipo": "herramientas_bateria",
+        "peso": 0.4,
+        "precio": 12.50
+    },
+    {
+        "id": 3,
+        "img": "img/img_herram_bateria/imagen2.jpg",
+        "alt": "Borne de bateria CARPRISS",
+        "marca": "CARPRISS",
+        "codigo": "BORNE CARPRISS",
+        "tipo": "herramientas_bateria",
+        "peso": 0.6,
+        "precio": 3.50
+    },
+    {
+        "id": 4,
+        "img": "img/img_herram_bateria/imagen3.jpg",
+        "alt": "Borne de bateria TRICLO 964026",
+        "marca": "TRICLO",
+        "codigo": "964026",
+        "tipo": "herramientas_bateria",
+        "peso": 0.8,
+        "precio": 5.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_herram_bateria/imagen4.jpg",
+        "alt": "Cargador bateria BETA 018014980126",    
+        "marca": "BETA",
+        "codigo": "018014980126",
+        "tipo": "herramientas_bateria",
+        "peso": 0.9,
+        "precio": 419.79
+    },
+    {
+        "id": 6,
+        "img": "img/img_herram_bateria/imagen.jpg",
+        "alt": "Borne de bateria TRICLO 964023",
+        "marca": "TRICLO",
+        "codigo": "964023",
+        "tipo": "herramientas_bateria",
+        "peso": 0.5,
+        "precio": 2.86
+    },
+    {
+        "id": 7,
+        "img": "img/img_herram_bateria/imagen1.jpg",
+        "alt": "Borne de bateria HELLA 8KX 747 875-011",
+        "marca": "HELLA",
+        "codigo": "8KX 747 875-011",
+        "tipo": "herramientas_bateria",
+        "peso": 0.4,
+        "precio": 12.50
+    },
+    {
+        "id": 8,
+        "img": "img/img_herram_bateria/imagen2.jpg",
+        "alt": "Borne de bateria CARPRISS",
+        "marca": "CARPRISS",
+        "codigo": "BORNE CARPRISS",
+        "tipo": "herramientas_bateria",
+        "peso": 0.6,
+        "precio": 3.50
+    },
+    {
+        "id": 9,
+        "img": "img/img_herram_bateria/imagen3.jpg",
+        "alt": "Borne de bateria TRICLO 964026",
+        "marca": "TRICLO",
+        "codigo": "964026",
+        "tipo": "herramientas_bateria",
+        "peso": 0.8,
+        "precio": 5.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_herram_bateria/imagen4.jpg",
+        "alt": "Cargador bateria BETA 018014980126",    
+        "marca": "BETA",
+        "codigo": "018014980126",
+        "tipo": "herramientas_bateria",
+        "peso": 0.9,
+        "precio": 419.79
+    },
+    {
+        "id": 11,
+        "img": "img/img_herram_bateria/imagen.jpg",
+        "alt": "Borne de bateria TRICLO 964023",
+        "marca": "TRICLO",
+        "codigo": "964023",
+        "tipo": "herramientas_bateria",
+        "peso": 0.5,
+        "precio": 2.86
+    },
+    {
+        "id": 12,
+        "img": "img/img_herram_bateria/imagen1.jpg",
+        "alt": "Borne de bateria HELLA 8KX 747 875-011",
+        "marca": "HELLA",
+        "codigo": "8KX 747 875-011",
+        "tipo": "herramientas_bateria",
+        "peso": 0.4,
+        "precio": 12.50
+    },
+    {
+        "id": 13,
+        "img": "img/img_herram_bateria/imagen2.jpg",
+        "alt": "Borne de bateria CARPRISS",
+        "marca": "CARPRISS",
+        "codigo": "BORNE CARPRISS",
+        "tipo": "herramientas_bateria",
+        "peso": 0.6,
+        "precio": 3.50
+    },
+    {
+        "id": 14,
+        "img": "img/img_herram_bateria/imagen3.jpg",
+        "alt": "Borne de bateria TRICLO 964026",
+        "marca": "TRICLO",
+        "codigo": "964026",
+        "tipo": "herramientas_bateria",
+        "peso": 0.8,
+        "precio": 5.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_herram_bateria/imagen4.jpg",
+        "alt": "Cargador bateria BETA 018014980126",    
+        "marca": "BETA",
+        "codigo": "018014980126",
+        "tipo": "herramientas_bateria",
+        "peso": 0.9,
+        "precio": 419.79
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "img": "/img/img_disco_freno/imagen.jpg",
+        "alt": "Disco de freno Bosch 0 204 123 123",
+        "marca": "BOSCH",
+        "codigo": "0 204 123 123",
+        "tipo": "Disco de freno",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 2,
+        "img": "/img/img_disco_freno/imagen1.jpg",
+        "alt": "Disco de freno ATE 24.2120-0012.3",
+        "marca": "ATE",
+        "codigo": "24.2120-0012.3",
+        "tipo": "Disco de freno",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 3,
+        "img": "/img/img_disco_freno/imagen2.jpg",
+        "alt": "Disco de freno TRW PMA1001",
+        "marca": "TRW",
+        "codigo": "PMA1001",
+        "tipo": "Disco de freno",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 4,
+        "img": "/img/img_disco_freno/imagen3.jpg",
+        "alt": "Disco de freno Valeo 253002",
+        "marca": "VALEO",
+        "codigo": "253002",
+        "tipo": "Disco de freno",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 5,
+        "img": "/img/img_disco_freno/imagen4.jpg",
+        "alt": "Disco de freno Luk 510 0016 10",
+        "marca": "LUK",
+        "codigo": "510 0016 10",
+        "tipo": "Disco de freno",
+        "peso": 9.0,
+        "precio": 250.00
+    },
+    {
+        "id": 6,
+        "img": "/img/img_disco_freno/imagen5.jpg",
+        "alt": "Disco de freno Aisin 1A0 355 000",
+        "marca": "AISIN",
+        "codigo": "1A0 355 000",
+        "tipo": "Disco de freno",
+        "peso": 10.0,
+        "precio": 300.00
+    },
+    {
+        "id": 7,
+        "img": "/img/img_disco_freno/imagen6.jpg",
+        "alt": "Disco de freno Ferodo FDB1234",
+        "marca": "FERODO",
+        "codigo": "FDB1234",
+        "tipo": "Disco de freno",
+        "peso": 11.0,
+        "precio": 350.00
+    },
+    {
+        "id": 8,
+        "img": "/img/img_disco_freno/imagen.jpg",
+        "alt": "Disco de freno Bosch 0 204 123 123",
+        "marca": "BOSCH",
+        "codigo": "0 204 123 123",
+        "tipo": "Disco de freno",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 9,
+        "img": "/img/img_disco_freno/imagen1.jpg",
+        "alt": "Disco de freno ATE 24.2120-0012.3",
+        "marca": "ATE",
+        "codigo": "24.2120-0012.3",
+        "tipo": "Disco de freno",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 10,
+        "img": "/img/img_disco_freno/imagen2.jpg",
+        "alt": "Disco de freno TRW PMA1001",
+        "marca": "TRW",
+        "codigo": "PMA1001",
+        "tipo": "Disco de freno",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 11,
+        "img": "/img/img_disco_freno/imagen3.jpg",
+        "alt": "Disco de freno Valeo 253002",
+        "marca": "VALEO",
+        "codigo": "253002",
+        "tipo": "Disco de freno",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 12,
+        "img": "/img/img_disco_freno/imagen4.jpg",
+        "alt": "Disco de freno Luk 510 0016 10",
+        "marca": "LUK",
+        "codigo": "510 0016 10",
+        "tipo": "Disco de freno",
+        "peso": 9.0,
+        "precio": 250.00
+    },
+    {
+        "id": 13,
+        "img": "/img/img_disco_freno/imagen5.jpg",
+        "alt": "Disco de freno Aisin 1A0 355 000",
+        "marca": "AISIN",
+        "codigo": "1A0 355 000",
+        "tipo": "Disco de freno",
+        "peso": 10.0,
+        "precio": 300.00
+    },
+    {
+        "id": 14,
+        "img": "/img/img_disco_freno/imagen6.jpg",
+        "alt": "Disco de freno Ferodo FDB1234",
+        "marca": "FERODO",
+        "codigo": "FDB1234",
+        "tipo": "Disco de freno",
+        "peso": 11.0,
+        "precio": 350.00
+    },
+    {
+        "id": 15,
+        "img": "/img/img_disco_freno/imagen.jpg",
+        "alt": "Disco de freno Bosch 0 204 123 123",
+        "marca": "BOSCH",
+        "codigo": "0 204 123 123",
+        "tipo": "Disco de freno",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 16,
+        "img": "/img/img_disco_freno/imagen1.jpg",
+        "alt": "Disco de freno ATE 24.2120-0012.3",
+        "marca": "ATE",
+        "codigo": "24.2120-0012.3",
+        "tipo": "Disco de freno",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 17,
+        "img": "/img/img_disco_freno/imagen2.jpg",
+        "alt": "Disco de freno TRW PMA1001",
+        "marca": "TRW",
+        "codigo": "PMA1001",
+        "tipo": "Disco de freno",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 18,
+        "img": "/img/img_disco_freno/imagen3.jpg",
+        "alt": "Disco de freno Valeo 253002",
+        "marca": "VALEO",
+        "codigo": "253002",
+        "tipo": "Disco de freno",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 19,
+        "img": "/img/img_disco_freno/imagen4.jpg",
+        "alt": "Disco de freno Luk 510 0016 10",
+        "marca": "LUK",
+        "codigo": "510 0016 10",
+        "tipo": "Disco de freno",
+        "peso": 9.0,
+        "precio": 250.00
+    },
+    {
+        "id": 20,
+        "img": "/img/img_disco_freno/imagen5.jpg",
+        "alt": "Disco de freno Aisin 1A0 355 000",
+        "marca": "AISIN",
+        "codigo": "1A0 355 000",
+        "tipo": "Disco de freno",
+        "peso": 10.0,
+        "precio": 300.00
+    },
+    {
+        "id": 21,
+        "img": "/img/img_disco_freno/imagen6.jpg",
+        "alt": "Disco de freno Ferodo FDB1234",
+        "marca": "FERODO",
+        "codigo": "FDB1234",
+        "tipo": "Disco de freno",
+        "peso": 11.0,
+        "precio": 350.00
+    }
+]

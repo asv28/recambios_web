@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_bombillas_led/imagen.jpg",
+        "alt": "Bombilla LED Philips 9W E27",
+        "marca": "PHILIPS",
+        "codigo": "9W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.1,
+        "precio": 12.99
+    },
+    {   
+        "id": 2,
+        "img": "img/img_bombillas_led/imagen1.jpg",
+        "alt": "Bombilla LED Osram 10W E27",
+        "marca": "OSRAM",
+        "codigo": "10W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.1,
+        "precio": 9.50
+    },
+    {   
+        "id": 3,
+        "img": "img/img_bombillas_led/imagen2.jpg",
+        "alt": "Bombilla LED GE 8W E27",
+        "marca": "GE",
+        "codigo": "8W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.1,
+        "precio": 7.75
+    },
+    {   
+        "id": 4,
+        "img": "img/img_bombillas_led/imagen3.jpg",
+        "alt": "Bombilla LED Sylvania 12W E27",
+        "marca": "SYLVANIA",
+        "codigo": "12W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.1,
+        "precio": 10.25
+    },
+    {   
+        "id": 5,
+        "img": "img/img_bombillas_led/imagen4.jpg",
+        "alt": "Bombilla LED Cree 15W E27",
+        "marca": "CREE",
+        "codigo": "15W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.1,
+        "precio": 11.00
+    },
+    {   
+        "id": 6,
+        "img": "img/img_bombillas_led/imagen.jpg",
+        "alt": "Bombilla LED Philips 9W E27",
+        "marca": "PHILIPS",
+        "codigo": "9W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.1,
+        "precio": 12.99
+    },
+    {   
+        "id": 7,
+        "img": "img/img_bombillas_led/imagen1.jpg",
+        "alt": "Bombilla LED Osram 10W E27",
+        "marca": "OSRAM",
+        "codigo": "10W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.2,
+        "precio": 9.50
+    },
+    {   
+        "id": 8,
+        "img": "img/img_bombillas_led/imagen2.jpg",
+        "alt": "Bombilla LED GE 8W E27",
+        "marca": "GE",
+        "codigo": "8W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.1,
+        "precio": 7.75
+    },
+    {   
+        "id": 9,
+        "img": "img/img_bombillas_led/imagen3.jpg",
+        "alt": "Bombilla LED Sylvania 12W E27",
+        "marca": "SYLVANIA",
+        "codigo": "12W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.1,
+        "precio": 10.25
+    },
+    {   
+        "id": 10,
+        "img": "img/img_bombillas_led/imagen4.jpg",
+        "alt": "Bombilla LED Cree 15W E27",
+        "marca": "CREE",
+        "codigo": "15W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.4,
+        "precio": 11.00
+    },
+    {   
+        "id": 11,
+        "img": "img/img_bombillas_led/imagen.jpg",
+        "alt": "Bombilla LED Philips 9W E27",
+        "marca": "PHILIPS",
+        "codigo": "9W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.1,
+        "precio": 12.99
+    },
+    {   
+        "id": 12,
+        "img": "img/img_bombillas_led/imagen1.jpg",
+        "alt": "Bombilla LED Osram 10W E27",
+        "marca": "OSRAM",
+        "codigo": "10W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.2,
+        "precio": 9.50
+    },
+    {   
+        "id": 13,
+        "img": "img/img_bombillas_led/imagen2.jpg",
+        "alt": "Bombilla LED GE 8W E27",
+        "marca": "GE",
+        "codigo": "8W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.1,
+        "precio": 7.75
+    },
+    {   
+        "id": 14,
+        "img": "img/img_bombillas_led/imagen3.jpg",
+        "alt": "Bombilla LED Sylvania 12W E27",
+        "marca": "SYLVANIA",
+        "codigo": "12W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.3,
+        "precio": 10.25
+    },
+    {   
+        "id": 15,
+        "img": "img/img_bombillas_led/imagen4.jpg",
+        "alt": "Bombilla LED Cree 15W E27",
+        "marca": "CREE",
+        "codigo": "15W E27",
+        "tipo": "bombillas_led",
+        "peso": 0.4,
+        "precio": 11.00
+    }
+    
+]

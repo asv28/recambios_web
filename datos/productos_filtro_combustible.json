@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_filtro_combustible/imagen.jpg",
+        "alt": "Filtro de Combustible Mann WK 853",
+        "marca": "MANN",
+        "codigo": "WK 853",
+        "tipo": "filtro_combustible",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 2,
+        "img": "img/img_filtro_combustible/imagen1.jpg",
+        "alt": "Filtro de Combustible Mann PU 825X",
+        "marca": "MANN",
+        "codigo": "PU 825X",
+        "tipo": "filtro_combustible",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 3,
+        "img":"img/img_filtro_combustible/imagen2.jpg",
+        "alt": "Filtro de Combustible Mann WK 939/2",
+        "marca": "MANN",
+        "codigo": "WK 939/2",
+        "tipo": "filtro_combustible",
+        "peso": 0.7,
+        "precio": 20.00   
+    },
+    {
+        "id": 4,
+        "img": "img/img_filtro_combustible/imagen3.jpg",
+        "alt": "Filtro de Combustible Bosch N 0036",
+        "marca": "BOSCH",
+        "codigo": "N 0036",
+        "tipo": "filtro_combustible",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 5,
+        "img":"img/img_filtro_combustible/imagen4.jpg",
+        "alt": "Filtro de Combustible Bosch N 0456",
+        "marca": "BOSCH",
+        "codigo": "N 0456",
+        "tipo": "filtro_combustible",
+        "peso": 0.9,
+        "precio": 25.00  
+    },
+    {
+        "id": 6,
+        "img": "img/img_filtro_combustible/imagen5.jpg",
+        "alt": "Filtro de Combustible Purflux C 1001",
+        "marca": "PURFLUX",
+        "codigo": "C 1001",
+        "tipo": "filtro_combustible",
+        "peso": 1.0,
+        "precio": 30.00
+    },
+    {
+        "id": 7,
+        "img": "img/img_filtro_combustible/imagen6.jpg",
+        "alt": "Filtro de Combustible Purflux C 1002",
+        "marca": "PURFLUX",
+        "codigo": "C 1002",
+        "tipo": "filtro_combustible",
+        "peso": 1.4,
+        "precio": 40.00
+    },
+    {
+        "id": 8,
+        "img":"img/img_filtro_combustible/imagen7.jpg",
+        "alt": "Filtro de Combustible Purflux C 1003",
+        "marca": "PURFLUX",
+        "codigo": "C 1003",
+        "tipo": "filtro_combustible",
+        "peso": 1.4,
+        "precio": 17.85
+    },
+    {
+        "id": 9,
+        "img": "img/img_filtro_combustible/imagen.jpg",
+        "alt": "Filtro de Combustible Mann WK 853",
+        "marca": "MANN",
+        "codigo": "WK 853",
+        "tipo": "filtro_combustible",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 10,
+        "img": "img/img_filtro_combustible/imagen1.jpg",
+        "alt": "Filtro de Combustible Mann PU 825X",
+        "marca": "MANN",
+        "codigo": "PU 825X",
+        "tipo": "filtro_combustible",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 11,
+        "img":"img/img_filtro_combustible/imagen2.jpg",
+        "alt": "Filtro de Combustible Mann WK 939/2",
+        "marca": "MANN",
+        "codigo": "WK 939/2",
+        "tipo": "filtro_combustible",
+        "peso": 0.7,
+        "precio": 20.00   
+    },
+    {
+        "id": 12,
+        "img": "img/img_filtro_combustible/imagen3.jpg",
+        "alt": "Filtro de Combustible Bosch N 0036",
+        "marca": "BOSCH",
+        "codigo": "N 0036",
+        "tipo": "filtro_combustible",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 13,
+        "img":"img/img_filtro_combustible/imagen4.jpg",
+        "alt": "Filtro de Combustible Bosch N 0456",
+        "marca": "BOSCH",
+        "codigo": "N 0456",
+        "tipo": "filtro_combustible",
+        "peso": 0.9,
+        "precio": 25.00  
+    },
+    {
+        "id": 14,
+        "img": "img/img_filtro_combustible/imagen5.jpg",
+        "alt": "Filtro de Combustible Purflux C 1001",
+        "marca": "PURFLUX",
+        "codigo": "C 1001",
+        "tipo": "filtro_combustible",
+        "peso": 1.0,
+        "precio": 30.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_filtro_combustible/imagen6.jpg",
+        "alt": "Filtro de Combustible Purflux C 1002",
+        "marca": "PURFLUX",
+        "codigo": "C 1002",
+        "tipo": "filtro_combustible",
+        "peso": 1.4,
+        "precio": 40.00
+    },
+    {
+        "id": 16,
+        "img":"img/img_filtro_combustible/imagen7.jpg",
+        "alt": "Filtro de Combustible Purflux C 1003",
+        "marca": "PURFLUX",
+        "codigo": "C 1003",
+        "tipo": "filtro_combustible",
+        "peso": 1.4,
+        "precio": 17.85
+    },
+    {
+        "id": 17,
+        "img": "img/img_filtro_combustible/imagen.jpg",
+        "alt": "Filtro de Combustible Mann WK 853",
+        "marca": "MANN",
+        "codigo": "WK 853",
+        "tipo": "filtro_combustible",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 18,
+        "img": "img/img_filtro_combustible/imagen1.jpg",
+        "alt": "Filtro de Combustible Mann PU 825X",
+        "marca": "MANN",
+        "codigo": "PU 825X",
+        "tipo": "filtro_combustible",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 19,
+        "img":"img/img_filtro_combustible/imagen2.jpg",
+        "alt": "Filtro de Combustible Mann WK 939/2",
+        "marca": "MANN",
+        "codigo": "WK 939/2",
+        "tipo": "filtro_combustible",
+        "peso": 0.7,
+        "precio": 20.00   
+    },
+    {
+        "id": 20,
+        "img": "img/img_filtro_combustible/imagen3.jpg",
+        "alt": "Filtro de Combustible Bosch N 0036",
+        "marca": "BOSCH",
+        "codigo": "N 0036",
+        "tipo": "filtro_combustible",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 21,
+        "img":"img/img_filtro_combustible/imagen4.jpg",
+        "alt": "Filtro de Combustible Bosch N 0456",
+        "marca": "BOSCH",
+        "codigo": "N 0456",
+        "tipo": "filtro_combustible",
+        "peso": 0.9,
+        "precio": 25.00  
+    },
+    {
+        "id": 22,
+        "img": "img/img_filtro_combustible/imagen5.jpg",
+        "alt": "Filtro de Combustible Purflux C 1001",
+        "marca": "PURFLUX",
+        "codigo": "C 1001",
+        "tipo": "filtro_combustible",
+        "peso": 1.0,
+        "precio": 30.00
+    },
+    {
+        "id": 23,
+        "img": "img/img_filtro_combustible/imagen6.jpg",
+        "alt": "Filtro de Combustible Purflux C 1002",
+        "marca": "PURFLUX",
+        "codigo": "C 1002",
+        "tipo": "filtro_combustible",
+        "peso": 1.4,
+        "precio": 40.00
+    },
+    {
+        "id": 24,
+        "img":"img/img_filtro_combustible/imagen7.jpg",
+        "alt": "Filtro de Combustible Purflux C 1003",
+        "marca": "PURFLUX",
+        "codigo": "C 1003",
+        "tipo": "filtro_combustible",
+        "peso": 1.4,
+        "precio": 17.85
+    }
+]

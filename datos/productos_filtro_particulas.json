@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_particulas/imagen.jpg",
+        "alt": "Filtro de particulas Bosal 2000",
+        "marca": "BOSAL",
+        "codigo": "2000",
+        "tipo": "filtro_particulas",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 2,
+        "img": "img/img_particulas/imagen1.jpg",
+        "alt": "Filtro de particulas Walker 3000",
+        "marca": "WALKER",
+        "codigo": "3000",
+        "tipo": "filtro_particulas",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 3,
+        "img": "img/img_particulas/imagen2.jpg",
+        "alt": "Filtro de particulas Eberspächer 4000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "4000",
+        "tipo": "filtro_particulas",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_particulas/imagen3.jpg",
+        "alt": "Filtro de particulas Bosal 5000",
+        "marca": "BOSAL",
+        "codigo": "5000",
+        "tipo": "filtro_particulas",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_particulas/imagen4.jpg",
+        "alt": "Filtro de particulas Walker 6000",
+        "marca": "WALKER",
+        "codigo": "6000",
+        "tipo": "filtro_particulas",
+        "peso": 9.0,
+        "precio": 250.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_particulas/imagen.jpg",
+        "alt": "Filtro de particulas Bosal 2000",
+        "marca": "BOSAL",
+        "codigo": "2000",
+        "tipo": "filtro_particulas",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 7,
+        "img": "img/img_particulas/imagen1.jpg",
+        "alt": "Filtro de particulas Walker 3000",
+        "marca": "WALKER",
+        "codigo": "3000",
+        "tipo": "filtro_particulas",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_particulas/imagen2.jpg",
+        "alt": "Filtro de particulas Eberspächer 4000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "4000",
+        "tipo": "filtro_particulas",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_particulas/imagen3.jpg",
+        "alt": "Filtro de particulas Bosal 5000",
+        "marca": "BOSAL",
+        "codigo": "5000",
+        "tipo": "filtro_particulas",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_particulas/imagen4.jpg",
+        "alt": "Filtro de particulas Walker 6000",
+        "marca": "WALKER",
+        "codigo": "6000",
+        "tipo": "filtro_particulas",
+        "peso": 9.0,
+        "precio": 250.00
+    },
+    {
+        "id": 11,
+        "img": "img/img_particulas/imagen.jpg",
+        "alt": "Filtro de particulas Bosal 2000",
+        "marca": "BOSAL",
+        "codigo": "2000",
+        "tipo": "filtro_particulas",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_particulas/imagen1.jpg",
+        "alt": "Filtro de particulas Walker 3000",
+        "marca": "WALKER",
+        "codigo": "3000",
+        "tipo": "filtro_particulas",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_particulas/imagen2.jpg",
+        "alt": "Filtro de particulas Eberspächer 4000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "4000",
+        "tipo": "filtro_particulas",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_particulas/imagen3.jpg",
+        "alt": "Filtro de particulas Bosal 5000",
+        "marca": "BOSAL",
+        "codigo": "5000",
+        "tipo": "filtro_particulas",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_particulas/imagen4.jpg",
+        "alt": "Filtro de particulas Walker 6000",
+        "marca": "WALKER",
+        "codigo": "6000",
+        "tipo": "filtro_particulas",
+        "peso": 9.0,
+        "precio": 250.00
+    },
+    {
+        "id": 16,
+        "img": "img/img_particulas/imagen.jpg",
+        "alt": "Filtro de particulas Bosal 2000",
+        "marca": "BOSAL",
+        "codigo": "2000",
+        "tipo": "filtro_particulas",
+        "peso": 5.0,
+        "precio": 150.00
+    },
+    {
+        "id": 17,
+        "img": "img/img_particulas/imagen1.jpg",
+        "alt": "Filtro de particulas Walker 3000",
+        "marca": "WALKER",
+        "codigo": "3000",
+        "tipo": "filtro_particulas",
+        "peso": 6.0,
+        "precio": 180.00
+    },
+    {
+        "id": 18,
+        "img": "img/img_particulas/imagen2.jpg",
+        "alt": "Filtro de particulas Eberspächer 4000",
+        "marca": "EBERSPÄCHER",
+        "codigo": "4000",
+        "tipo": "filtro_particulas",
+        "peso": 7.0,
+        "precio": 200.00
+    },
+    {
+        "id": 19,
+        "img": "img/img_particulas/imagen3.jpg",
+        "alt": "Filtro de particulas Bosal 5000",
+        "marca": "BOSAL",
+        "codigo": "5000",
+        "tipo": "filtro_particulas",
+        "peso": 8.0,
+        "precio": 220.00
+    },
+    {
+        "id": 20,
+        "img": "img/img_particulas/imagen4.jpg",
+        "alt": "Filtro de particulas Walker 6000",
+        "marca": "WALKER",
+        "codigo": "6000",
+        "tipo": "filtro_particulas",
+        "peso": 9.0,
+        "precio": 250.00
+    }
+]

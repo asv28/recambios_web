@@ -1,0 +1,171 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_baterias/imagen.jpg",
+        "alt": "Batería Bosch S4 70Ah",
+        "marca": "BOSCH",
+        "codigo": "S4 70Ah",
+        "capacidad": 70,
+        "tipo": "bateria",
+        "peso": 18.5,
+        "precio": 120.99                          
+    },
+    {
+        "id": 2,
+        "img": "img/img_baterias/imagen1.jpg",
+        "alt": "Batería Varta Blue Dynamic 60Ah",
+        "marca": "VARTA",
+        "codigo": "Blue Dynamic 60Ah",
+        "capacidad": 60,
+        "tipo": "bateria",
+        "peso": 16.5,
+        "precio": 110.50
+    },
+    {
+        "id": 3,
+        "img": "img/img_baterias/imagen2.jpg",
+        "alt": "Batería Exide Premium 75Ah",
+        "marca": "EXIDE",
+        "codigo": "Premium 75Ah",
+        "capacidad": 75,
+        "tipo": "baterias",
+        "peso": 20.0,
+        "precio": 130.75
+    },
+    {
+        "id": 4,
+        "img": "img/img_baterias/imagen3.jpg",
+        "alt": "Batería Yuasa YBX5000 70Ah",
+        "marca": "YUASA",
+        "codigo": "YBX5000 70Ah",
+        "capacidad": 70,
+        "tipo": "baterias",
+        "peso": 19.0,
+        "precio": 125.99
+    },
+    {
+        "id": 5,
+        "img": "img/img_baterias/imagen4.jpg",
+        "alt": "Batería Optima Red Top 55Ah",
+        "marca": "OPTIMA",
+        "codigo": "Red Top 55Ah",
+        "capacidad": 55,
+        "tipo": "baterias",
+        "peso": 15.0,
+        "precio": 150.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_baterias/imagen.jpg",
+        "alt": "Batería Bosch S4 70Ah",
+        "marca": "BOSCH",
+        "codigo": "S4 70Ah",
+        "capacidad": 70,
+        "tipo": "baterias",
+        "peso": 18.5,
+        "precio": 120.99                          
+    },
+    {
+        "id": 7,
+        "img": "img/img_baterias/imagen1.jpg",
+        "alt": "Batería Varta Blue Dynamic 60Ah",
+        "marca": "VARTA",
+        "codigo": "Blue Dynamic 60Ah",
+        "capacidad": 60,
+        "tipo": "baterias",
+        "peso": 16.5,
+        "precio": 110.50
+    },
+    {
+        "id": 8,
+        "img": "img/img_baterias/imagen2.jpg",
+        "alt": "Batería Exide Premium 75Ah",
+        "marca": "EXIDE",
+        "codigo": "Premium 75Ah",
+        "capacidad": 75,
+        "tipo": "baterias",
+        "peso": 20.0,
+        "precio": 130.75
+    },
+    {
+        "id": 9,
+        "img": "img/img_baterias/imagen3.jpg",
+        "alt": "Batería Yuasa YBX5000 70Ah",
+        "marca": "YUASA",
+        "codigo": "YBX5000 70Ah",
+        "capacidad": 70,
+        "tipo": "baterias",
+        "peso": 19.0,
+        "precio": 125.99
+    },
+    {   
+        "id": 10,
+        "img": "img/img_baterias/imagen4.jpg",
+        "alt": "Batería Optima Red Top 55Ah",
+        "marca": "OPTIMA",
+        "codigo": "Red Top 55Ah",
+        "capacidad": 55,
+        "tipo": "baterias",
+        "peso": 15.0,
+        "precio": 150.00
+    },
+    {   
+        "id": 11,
+        "img": "img/img_baterias/imagen.jpg",
+        "alt": "Batería Bosch S4 70Ah",
+        "marca": "BOSCH",
+        "codigo": "S4 70Ah",
+        "capacidad": 70,
+        "tipo": "baterias",
+        "peso": 18.5,
+        "precio": 120.99                          
+    },
+    {   
+        "id": 12,
+        "img": "img/img_baterias/imagen1.jpg",
+        "alt": "Batería Varta Blue Dynamic 60Ah",
+        "marca": "VARTA",
+        "codigo": "Blue Dynamic 60Ah",
+        "capacidad": 60,
+        "tipo": "baterias",
+        "peso": 16.5,
+        "precio": 110.50
+    },
+    {   
+        "id": 13,
+        "img": "img/img_baterias/imagen2.jpg",
+        "alt": "Batería Exide Premium 75Ah",
+        "marca": "EXIDE",
+        "codigo": "Premium 75Ah",
+        "capacidad": 75,
+        "tipo": "baterias",
+        "peso": 20.0,
+        "precio": 130.75
+    },
+    {   
+        "id": 14,
+        "img": "img/img_baterias/imagen3.jpg",
+        "alt": "Batería Yuasa YBX5000 70Ah",
+        "marca": "YUASA",
+        "codigo": "YBX5000 70Ah",
+        "capacidad": 70,
+        "tipo": "baterias",
+        "peso": 19.0,
+        "precio": 125.99
+    },
+    {   
+        "id": 15,
+        "img": "img/img_baterias/imagen4.jpg",
+        "alt": "Batería Optima Red Top 55Ah",
+        "marca": "OPTIMA",
+        "codigo": "Red Top 55Ah",
+        "capacidad": 55,
+        "tipo": "baterias",
+        "peso": 15.0,
+        "precio": 150.00
+    }
+
+
+
+
+]

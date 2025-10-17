@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "img": "/img/img_ferreteria/imagen.jpg",
+        "alt": "Abrazadera de Manguera 1\"",
+        "marca": "ABRAZADERA",
+        "codigo": "ABRAZADERA-1",
+        "tipo": "Abrazadera de Manguera",
+        "peso": 0.05,
+        "precio": 1.50
+    },
+    {
+        "id": 2,
+        "img": "/img/img_ferreteria/imagen1.jpg",
+        "alt": "Racor de Manguera",
+        "marca": "RACOR",
+        "codigo": "RACOR-1",
+        "tipo": "Racor de Manguera",
+        "peso": 0.1,
+        "precio": 8.50
+    },
+    {
+        "id": 3,
+        "img": "/img/img_ferreteria/imagen2.jpg",
+        "alt": "Tornillo de Acero Inoxidable M6x20",
+        "marca": "TORNILLO",
+        "codigo": "TORNILLO-1",
+        "tipo": "Tornillo de Acero Inoxidable",
+        "peso": 0.02,
+        "precio": 0.20
+    },
+    {
+        "id": 4,
+        "img": "/img/img_ferreteria/imagen3.jpg",
+        "alt": "Tuerca de Acero Inoxidable M6",
+        "marca": "TUERCA",
+        "codigo": "TUERCA-1",
+        "tipo": "Tuerca de Acero Inoxidable",
+        "peso": 0.01,
+        "precio": 0.10
+    },
+    {
+        "id": 5,
+        "img": "/img/img_ferreteria/imagen4.jpg",
+        "alt": "Tuerca de Acero Inoxidable M6",
+        "marca": "TUERCA",
+        "codigo": "TUERCA-2",
+        "tipo": "Tuerca de Acero Inoxidable",
+        "peso": 0.01,
+        "precio": 1.10
+    },
+    {
+        "id": 6,
+        "img": "/img/img_ferreteria/imagen5.jpg",
+        "alt": "Tornillos de Acero Inoxidable M6x20",
+        "marca": "TORNILLOS",
+        "codigo": "TORNILLOS-8",
+        "tipo": "Tornillos de Acero Inoxidable",
+        "peso": 1.02,
+        "precio": 8.00
+    },
+    {
+        "id": 7,
+        "img": "/img/img_ferreteria/imagen.jpg",
+        "alt": "Abrazadera de Manguera 1\"",
+        "marca": "ABRAZADERA",
+        "codigo": "ABRAZADERA-1",
+        "tipo": "Abrazadera de Manguera",
+        "peso": 0.05,
+        "precio": 1.50
+    },
+    {
+        "id": 8,
+        "img": "/img/img_ferreteria/imagen1.jpg",
+        "alt": "Racor de Manguera",
+        "marca": "RACOR",
+        "codigo": "RACOR-1",
+        "tipo": "Racor de Manguera",
+        "peso": 0.1,
+        "precio": 8.50
+    },
+    {
+        "id": 9,
+        "img": "/img/img_ferreteria/imagen2.jpg",
+        "alt": "Tornillo de Acero Inoxidable M6x20",
+        "marca": "TORNILLO",
+        "codigo": "TORNILLO-1",
+        "tipo": "Tornillo de Acero Inoxidable",
+        "peso": 0.02,
+        "precio": 0.20
+    },
+    {
+        "id": 10,
+        "img": "/img/img_ferreteria/imagen3.jpg",
+        "alt": "Tuerca de Acero Inoxidable M6",
+        "marca": "TUERCA",
+        "codigo": "TUERCA-1",
+        "tipo": "Tuerca de Acero Inoxidable",
+        "peso": 0.01,
+        "precio": 0.10
+    },
+    {
+        "id": 11,
+        "img": "/img/img_ferreteria/imagen4.jpg",
+        "alt": "Tuerca de Acero Inoxidable M6",
+        "marca": "TUERCA",
+        "codigo": "TUERCA-2",
+        "tipo": "Tuerca de Acero Inoxidable",
+        "peso": 0.01,
+        "precio": 1.10
+    },
+    {
+        "id": 12,
+        "img": "/img/img_ferreteria/imagen5.jpg",
+        "alt": "Tornillos de Acero Inoxidable M6x20",
+        "marca": "TORNILLOS",
+        "codigo": "TORNILLOS-8",
+        "tipo": "Tornillos de Acero Inoxidable",
+        "peso": 1.02,
+        "precio": 8.00
+    },
+    {
+        "id": 13,
+        "img": "/img/img_ferreteria/imagen.jpg",
+        "alt": "Abrazadera de Manguera 1\"",
+        "marca": "ABRAZADERA",
+        "codigo": "ABRAZADERA-1",
+        "tipo": "Abrazadera de Manguera",
+        "peso": 0.05,
+        "precio": 1.50
+    },
+    {
+        "id": 14,
+        "img": "/img/img_ferreteria/imagen1.jpg",
+        "alt": "Racor de Manguera",
+        "marca": "RACOR",
+        "codigo": "RACOR-1",
+        "tipo": "Racor de Manguera",
+        "peso": 0.1,
+        "precio": 8.50
+    },
+    {
+        "id": 15,
+        "img": "/img/img_ferreteria/imagen2.jpg",
+        "alt": "Tornillo de Acero Inoxidable M6x20",
+        "marca": "TORNILLO",
+        "codigo": "TORNILLO-1",
+        "tipo": "Tornillo de Acero Inoxidable",
+        "peso": 0.02,
+        "precio": 0.20
+    },
+    {
+        "id": 16,
+        "img": "/img/img_ferreteria/imagen3.jpg",
+        "alt": "Tuerca de Acero Inoxidable M6",
+        "marca": "TUERCA",
+        "codigo": "TUERCA-1",
+        "tipo": "Tuerca de Acero Inoxidable",
+        "peso": 0.01,
+        "precio": 0.10
+    },
+    {
+        "id": 17,
+        "img": "/img/img_ferreteria/imagen4.jpg",
+        "alt": "Tuerca de Acero Inoxidable M6",
+        "marca": "TUERCA",
+        "codigo": "TUERCA-2",
+        "tipo": "Tuerca de Acero Inoxidable",
+        "peso": 0.01,
+        "precio": 1.10
+    },
+    {
+        "id": 18,
+        "img": "/img/img_ferreteria/imagen5.jpg",
+        "alt": "Tornillos de Acero Inoxidable M6x20",
+        "marca": "TORNILLOS",
+        "codigo": "TORNILLOS-8",
+        "tipo": "Tornillos de Acero Inoxidable",
+        "peso": 1.02,
+        "precio": 8.00
+    }
+    
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_herram_pinzas/imagen.jpg",
+        "alt": "Pinzas antimagneticas BETA",
+        "marca": "BETA",
+        "codigo": "PINZAS ANTIMAGNETICAS BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 2,
+        "img": "img/img_herram_pinzas/imagen1.jpg",
+        "alt": "Juego de alicates BETA",
+        "marca": "BETA",
+        "codigo": "JUEGO DE ALICATES BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.6,
+        "precio": 88.50 
+    },
+    {
+        "id": 3,
+        "img": "img/img_herram_pinzas/imagen2.jpg",
+        "alt": "Pinzas autobloqueantes BETA",
+        "marca": "BETA",
+        "codigo": "PINZAS AUTOBLOQUEANTES BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_herram_pinzas/imagen3.jpg",
+        "alt": "Pinzas punta recta redondeada BETA",
+        "marca": "BETA",
+        "codigo": "PINZAS PUNTA RECTANGULAR BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 5,
+        "img": "img/img_herram_pinzas/imagen4.jpg",
+        "alt": "Alicate boca semirredonda BETA",
+        "marca": "BETA",
+        "codigo": "ALICATE BOCA SEMIRREDONDA BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.9,
+        "precio": 25.00 
+    },
+    {
+        "id": 6,
+        "img": "img/img_herram_pinzas/imagen.jpg",
+        "alt": "Pinzas antimagneticas BETA",
+        "marca": "BETA",
+        "codigo": "PINZAS ANTIMAGNETICAS BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 7,
+        "img": "img/img_herram_pinzas/imagen1.jpg",
+        "alt": "Juego de alicates BETA",
+        "marca": "BETA",
+        "codigo": "JUEGO DE ALICATES BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.6,
+        "precio": 88.50 
+    },
+    {
+        "id": 8,
+        "img": "img/img_herram_pinzas/imagen2.jpg",
+        "alt": "Pinzas autobloqueantes BETA",
+        "marca": "BETA",
+        "codigo": "PINZAS AUTOBLOQUEANTES BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_herram_pinzas/imagen3.jpg",
+        "alt": "Pinzas punta recta redondeada BETA",
+        "marca": "BETA",
+        "codigo": "PINZAS PUNTA RECTANGULAR BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 10,
+        "img": "img/img_herram_pinzas/imagen4.jpg",
+        "alt": "Alicate boca semirredonda BETA",
+        "marca": "BETA",
+        "codigo": "ALICATE BOCA SEMIRREDONDA BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.9,
+        "precio": 25.00 
+    },
+    {
+        "id": 11,
+        "img": "img/img_herram_pinzas/imagen.jpg",
+        "alt": "Pinzas antimagneticas BETA",
+        "marca": "BETA",
+        "codigo": "PINZAS ANTIMAGNETICAS BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 12,
+        "img": "img/img_herram_pinzas/imagen1.jpg",
+        "alt": "Juego de alicates BETA",
+        "marca": "BETA",
+        "codigo": "JUEGO DE ALICATES BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.6,
+        "precio": 88.50 
+    },
+    {
+        "id": 13,
+        "img": "img/img_herram_pinzas/imagen2.jpg",
+        "alt": "Pinzas autobloqueantes BETA",
+        "marca": "BETA",
+        "codigo": "PINZAS AUTOBLOQUEANTES BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_herram_pinzas/imagen3.jpg",
+        "alt": "Pinzas punta recta redondeada BETA",
+        "marca": "BETA",
+        "codigo": "PINZAS PUNTA RECTANGULAR BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 15,
+        "img": "img/img_herram_pinzas/imagen4.jpg",
+        "alt": "Alicate boca semirredonda BETA",
+        "marca": "BETA",
+        "codigo": "ALICATE BOCA SEMIRREDONDA BETA",
+        "tipo": "herramientas_pinzas",
+        "peso": 0.9,
+        "precio": 25.00 
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "img": "/img/img_muelles/imagen.jpg",
+        "alt": "Muelles de suspensión Eibach Pro-Kit",
+        "marca": "EIBACH",
+        "codigo": "EIB-PRO-KIT",
+        "tipo": "Muelles de suspensión",
+        "peso": 2.5,
+        "precio": 150.00
+    },
+    {
+        "id": 2,
+        "img": "/img/img_muelles/imagen1.jpg",
+        "alt": "Muelles de suspensión H&R Sport",
+        "marca": "H&R",
+        "codigo": "HR-SP-SPORT",
+        "tipo": "Muelles de suspensión",
+        "peso": 3.0,
+        "precio": 180.00
+    },
+    {
+        "id": 3,
+        "img": "/img/img_muelles/imagen2.jpg",
+        "alt": "Muelles de suspensión Bilstein B12 Pro-Kit",
+        "marca": "BILSTEIN",
+        "codigo": "BIL-B12-PRO-KIT",
+        "tipo": "Muelles de suspensión",
+        "peso": 3.5,
+        "precio": 200.00
+    },
+    {
+        "id": 4,
+        "img": "/img/img_muelles/imagen3.jpg",
+        "alt": "Muelles de suspensión Eibach Sportline",
+        "marca": "EIBACH",
+        "codigo": "EIB-SPORTLINE",
+        "tipo": "Muelles de suspensión",
+        "peso": 2.8,
+        "precio": 220.00
+    },
+    {
+        "id": 5,
+        "img": "/img/img_muelles/imagen4.jpg",
+        "alt": "Muelles de suspensión H&R Super Sport",
+        "marca": "H&R",
+        "codigo": "HR-SUPER-SPORT",
+        "tipo": "Muelles de suspensión",
+        "peso": 3.2,
+        "precio": 250.00
+    },
+    {
+        "id": 6,
+        "img": "/img/img_muelles/imagen.jpg",
+        "alt": "Muelles de suspensión Eibach Pro-Kit",
+        "marca": "EIBACH",
+        "codigo": "EIB-PRO-KIT",
+        "tipo": "Muelles de suspensión",
+        "peso": 2.5,
+        "precio": 150.00
+    },
+    {
+        "id": 7,
+        "img": "/img/img_muelles/imagen1.jpg",
+        "alt": "Muelles de suspensión H&R Sport",
+        "marca": "H&R",
+        "codigo": "HR-SP-SPORT",
+        "tipo": "Muelles de suspensión",
+        "peso": 3.0,
+        "precio": 180.00
+    },
+    {
+        "id": 8,
+        "img": "/img/img_muelles/imagen2.jpg",
+        "alt": "Muelles de suspensión Bilstein B12 Pro-Kit",
+        "marca": "BILSTEIN",
+        "codigo": "BIL-B12-PRO-KIT",
+        "tipo": "Muelles de suspensión",
+        "peso": 3.5,
+        "precio": 200.00
+    },
+    {
+        "id": 9,
+        "img": "/img/img_muelles/imagen3.jpg",
+        "alt": "Muelles de suspensión Eibach Sportline",
+        "marca": "EIBACH",
+        "codigo": "EIB-SPORTLINE",
+        "tipo": "Muelles de suspensión",
+        "peso": 2.8,
+        "precio": 220.00
+    },
+    {
+        "id": 10,
+        "img": "/img/img_muelles/imagen4.jpg",
+        "alt": "Muelles de suspensión H&R Super Sport",
+        "marca": "H&R",
+        "codigo": "HR-SUPER-SPORT",
+        "tipo": "Muelles de suspensión",
+        "peso": 3.2,
+        "precio": 250.00
+    },
+    {
+        "id": 11,
+        "img": "/img/img_muelles/imagen.jpg",
+        "alt": "Muelles de suspensión Eibach Pro-Kit",
+        "marca": "EIBACH",
+        "codigo": "EIB-PRO-KIT",
+        "tipo": "Muelles de suspensión",
+        "peso": 2.5,
+        "precio": 150.00
+    },
+    {
+        "id": 12,
+        "img": "/img/img_muelles/imagen1.jpg",
+        "alt": "Muelles de suspensión H&R Sport",
+        "marca": "H&R",
+        "codigo": "HR-SP-SPORT",
+        "tipo": "Muelles de suspensión",
+        "peso": 3.0,
+        "precio": 180.00
+    },
+    {
+        "id": 13,
+        "img": "/img/img_muelles/imagen2.jpg",
+        "alt": "Muelles de suspensión Bilstein B12 Pro-Kit",
+        "marca": "BILSTEIN",
+        "codigo": "BIL-B12-PRO-KIT",
+        "tipo": "Muelles de suspensión",
+        "peso": 3.5,
+        "precio": 200.00
+    },
+    {
+        "id": 14,
+        "img": "/img/img_muelles/imagen3.jpg",
+        "alt": "Muelles de suspensión Eibach Sportline",
+        "marca": "EIBACH",
+        "codigo": "EIB-SPORTLINE",
+        "tipo": "Muelles de suspensión",
+        "peso": 2.8,
+        "precio": 220.00
+    },
+    {
+        "id": 15,
+        "img": "/img/img_muelles/imagen4.jpg",
+        "alt": "Muelles de suspensión H&R Super Sport",
+        "marca": "H&R",
+        "codigo": "HR-SUPER-SPORT",
+        "tipo": "Muelles de suspensión",
+        "peso": 3.2,
+        "precio": 250.00
+    },
+    {
+        "id": 16,
+        "img": "/img/img_muelles/imagen.jpg",
+        "alt": "Muelles de suspensión Eibach Pro-Kit",
+        "marca": "EIBACH",
+        "codigo": "EIB-PRO-KIT",
+        "tipo": "Muelles de suspensión",
+        "peso": 2.5,
+        "precio": 150.00
+    },
+    {
+        "id": 17,
+        "img": "/img/img_muelles/imagen1.jpg",
+        "alt": "Muelles de suspensión H&R Sport",
+        "marca": "H&R",
+        "codigo": "HR-SP-SPORT",
+        "tipo": "Muelles de suspensión",
+        "peso": 3.0,
+        "precio": 180.00
+    },
+    {
+        "id": 18,
+        "img": "/img/img_muelles/imagen2.jpg",
+        "alt": "Muelles de suspensión Bilstein B12 Pro-Kit",
+        "marca": "BILSTEIN",
+        "codigo": "BIL-B12-PRO-KIT",
+        "tipo": "Muelles de suspensión",
+        "peso": 3.5,
+        "precio": 200.00
+    },
+    {
+        "id": 19,
+        "img": "/img/img_muelles/imagen3.jpg",
+        "alt": "Muelles de suspensión Eibach Sportline",
+        "marca": "EIBACH",
+        "codigo": "EIB-SPORTLINE",
+        "tipo": "Muelles de suspensión",
+        "peso": 2.8,
+        "precio": 220.00
+    },
+    {
+        "id": 20,
+        "img": "/img/img_muelles/imagen4.jpg",
+        "alt": "Muelles de suspensión H&R Super Sport",
+        "marca": "H&R",
+        "codigo": "HR-SUPER-SPORT",
+        "tipo": "Muelles de suspensión",
+        "peso": 3.2,
+        "precio": 250.00
+    }
+]

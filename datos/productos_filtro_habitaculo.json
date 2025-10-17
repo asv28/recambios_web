@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_filtro_habitaculo/imagen.jpg",
+        "alt": "Filtro de Habitáculo Mann CU 1009",
+        "marca": "MANN",    
+        "codigo": "CU 1009",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 2,
+        "img":"img/img_filtro_habitaculo/imagen1.jpg",
+        "alt": "Filtro de Habitáculo Bosch 1 987 432 000",
+        "marca": "BOSCH",
+        "codigo": "1 987 432 000",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.6,
+        "precio": 18.50     
+    },
+    {
+        "id": 3,
+        "img": "img/img_filtro_habitaculo/imagen2.jpg",
+        "alt": "Filtro de Habitáculo Mann CU 1005",
+        "marca": "MANN",
+        "codigo": "CU 1005",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_filtro_habitaculo/imagen3.jpg",
+        "alt": "Filtro de Habitáculo Mann CU 2244",
+        "marca": "MANN",
+        "codigo": "CU 2244",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 5,
+        "img": "img/img_filtro_habitaculo/imagen4.jpg",
+        "alt": "Filtro de Habitáculo Purflux A 1234",
+        "marca": "PURFLUX",
+        "codigo": "A 1234",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_filtro_habitaculo/imagen5.jpg",
+        "alt": "Filtro de Habitáculo Purflux A 5678",
+        "marca": "PURFLUX",
+        "codigo": "A 5678",
+        "tipo": "filtro_habitaculo",
+        "peso": 1.0,
+        "precio": 30.00
+    },
+    {
+        "id": 7,
+        "img":"img/img_filtro_habitaculo/imagen6.jpg",
+        "alt": "Filtro de Habitáculo Purflux A 91011",
+        "marca": "PURFLUX", 
+        "codigo": "A 91011",
+        "tipo": "filtro_habitaculo",
+        "peso": 1.1,
+        "precio": 35.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_filtro_habitaculo/imagen.jpg",
+        "alt": "Filtro de Habitáculo Mann CU 1009",
+        "marca": "MANN",    
+        "codigo": "CU 1009",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 9,
+        "img":"img/img_filtro_habitaculo/imagen1.jpg",
+        "alt": "Filtro de Habitáculo Bosch 1 987 432 000",
+        "marca": "BOSCH",
+        "codigo": "1 987 432 000",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.6,
+        "precio": 18.50     
+    },
+    {
+        "id": 10,
+        "img": "img/img_filtro_habitaculo/imagen2.jpg",
+        "alt": "Filtro de Habitáculo Mann CU 1005",
+        "marca": "MANN",
+        "codigo": "CU 1005",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 11,
+        "img": "img/img_filtro_habitaculo/imagen3.jpg",
+        "alt": "Filtro de Habitáculo Mann CU 2244",
+        "marca": "MANN",
+        "codigo": "CU 2244",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 12,
+        "img": "img/img_filtro_habitaculo/imagen4.jpg",
+        "alt": "Filtro de Habitáculo Purflux A 1234",
+        "marca": "PURFLUX",
+        "codigo": "A 1234",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_filtro_habitaculo/imagen5.jpg",
+        "alt": "Filtro de Habitáculo Purflux A 5678",
+        "marca": "PURFLUX",
+        "codigo": "A 5678",
+        "tipo": "filtro_habitaculo",
+        "peso": 1.0,
+        "precio": 30.00
+    },
+    {
+        "id": 14,
+        "img":"img/img_filtro_habitaculo/imagen6.jpg",
+        "alt": "Filtro de Habitáculo Purflux A 91011",
+        "marca": "PURFLUX", 
+        "codigo": "A 91011",
+        "tipo": "filtro_habitaculo",
+        "peso": 1.1,
+        "precio": 35.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_filtro_habitaculo/imagen.jpg",
+        "alt": "Filtro de Habitáculo Mann CU 1009",
+        "marca": "MANN",    
+        "codigo": "CU 1009",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 16,
+        "img":"img/img_filtro_habitaculo/imagen1.jpg",
+        "alt": "Filtro de Habitáculo Bosch 1 987 432 000",
+        "marca": "BOSCH",
+        "codigo": "1 987 432 000",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.6,
+        "precio": 18.50     
+    },
+    {
+        "id": 17,
+        "img": "img/img_filtro_habitaculo/imagen2.jpg",
+        "alt": "Filtro de Habitáculo Mann CU 1005",
+        "marca": "MANN",
+        "codigo": "CU 1005",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 18,
+        "img": "img/img_filtro_habitaculo/imagen3.jpg",
+        "alt": "Filtro de Habitáculo Mann CU 2244",
+        "marca": "MANN",
+        "codigo": "CU 2244",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 19,
+        "img": "img/img_filtro_habitaculo/imagen4.jpg",
+        "alt": "Filtro de Habitáculo Purflux A 1234",
+        "marca": "PURFLUX",
+        "codigo": "A 1234",
+        "tipo": "filtro_habitaculo",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 20,
+        "img": "img/img_filtro_habitaculo/imagen5.jpg",
+        "alt": "Filtro de Habitáculo Purflux A 5678",
+        "marca": "PURFLUX",
+        "codigo": "A 5678",
+        "tipo": "filtro_habitaculo",
+        "peso": 1.0,
+        "precio": 30.00
+    },
+    {
+        "id": 21,
+        "img":"img/img_filtro_habitaculo/imagen6.jpg",
+        "alt": "Filtro de Habitáculo Purflux A 91011",
+        "marca": "PURFLUX", 
+        "codigo": "A 91011",
+        "tipo": "filtro_habitaculo",
+        "peso": 1.1,
+        "precio": 35.00
+    }
+]

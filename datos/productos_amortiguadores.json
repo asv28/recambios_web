@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_amortiguador/imagen.jpg",
+        "alt": "Amortiguador Bilstein B4 22045744BIL",
+        "marca": "BILSTEIN",
+        "codigo": "22045744BIL",
+        "tipo": "amortiguadores",
+        "peso": 1.5,
+        "precio": 120.00
+    },
+    {
+        "id": 2,
+        "img": "img/img_amortiguador/imagen1.jpg",
+        "alt": "Amortiguador Monroe 24333",
+        "marca": "MONROE",
+        "codigo": "24333",
+        "tipo": "amortiguadores",
+        "peso": 1.7,
+        "precio": 130.00
+    },
+    {
+        "id": 3,
+        "img": "img/img_amortiguador/imagen2.jpg",
+        "alt": "Amortiguador Sachs 315000",
+        "marca": "SACHS",
+        "codigo": "315000",
+        "tipo": "amortiguadores",
+        "peso": 1.6,
+        "precio": 125.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_amortiguador/imagen3.jpg",
+        "alt": "Amortiguador KYB 334123",
+        "marca": "KYB",
+        "codigo": "334123",
+        "tipo": "amortiguadores",
+        "peso": 1.8,
+        "precio": 140.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_amortiguador/imagen4.jpg",
+        "alt": "Amortiguador Gabriel G63636",
+        "marca": "GABRIEL",
+        "codigo": "G63636",
+        "tipo": "amortiguadores",
+        "peso": 1.9,
+        "precio": 135.00
+    },
+     {
+        "id": 6,
+        "img": "img/img_amortiguador/imagen.jpg",
+        "alt": "Amortiguador Bilstein B4 22045744BIL",
+        "marca": "BILSTEIN",
+        "codigo": "22045744BIL",
+        "tipo": "amortiguadores",
+        "peso": 1.5,
+        "precio": 120.00
+    },
+    {
+        "id": 7,
+        "img": "img/img_amortiguador/imagen1.jpg",
+        "alt": "Amortiguador Monroe 24333",
+        "marca": "MONROE",
+        "codigo": "24333",
+        "tipo": "amortiguadores",
+        "peso": 1.7,
+        "precio": 130.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_amortiguador/imagen2.jpg",
+        "alt": "Amortiguador Sachs 315000",
+        "marca": "SACHS",
+        "codigo": "315000",
+        "tipo": "amortiguadores",
+        "peso": 1.6,
+        "precio": 125.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_amortiguador/imagen3.jpg",
+        "alt": "Amortiguador KYB 334123",
+        "marca": "KYB",
+        "codigo": "334123",
+        "tipo": "amortiguadores",
+        "peso": 1.8,
+        "precio": 140.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_amortiguador/imagen4.jpg",
+        "alt": "Amortiguador Gabriel G63636",
+        "marca": "GABRIEL",
+        "codigo": "G63636",
+        "tipo": "amortiguadores",
+        "peso": 1.9,
+        "precio": 135.00
+    },
+     {
+        "id": 11,
+        "img": "img/img_amortiguador/imagen.jpg",
+        "alt": "Amortiguador Bilstein B4 22045744BIL",
+        "marca": "BILSTEIN",
+        "codigo": "22045744BIL",
+        "tipo": "amortiguadores",
+        "peso": 1.5,
+        "precio": 120.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_amortiguador/imagen1.jpg",
+        "alt": "Amortiguador Monroe 24333",
+        "marca": "MONROE",
+        "codigo": "24333",
+        "tipo": "amortiguadores",
+        "peso": 1.7,
+        "precio": 130.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_amortiguador/imagen2.jpg",
+        "alt": "Amortiguador Sachs 315000",
+        "marca": "SACHS",
+        "codigo": "315000",
+        "tipo": "amortiguadores",
+        "peso": 1.6,
+        "precio": 125.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_amortiguador/imagen3.jpg",
+        "alt": "Amortiguador KYB 334123",
+        "marca": "KYB",
+        "codigo": "334123",
+        "tipo": "amortiguadores",
+        "peso": 1.8,
+        "precio": 140.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_amortiguador/imagen4.jpg",
+        "alt": "Amortiguador Gabriel G63636",
+        "marca": "GABRIEL",
+        "codigo": "G63636",
+        "tipo": "amortiguadores",
+        "peso": 1.9,
+        "precio": 135.00
+    }
+
+]

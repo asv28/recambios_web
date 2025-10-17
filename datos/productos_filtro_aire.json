@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_filtro_aire/imagen.jpg",
+        "alt": "Filtro de Aire Mann C 24 017",
+        "marca": "MANN",
+        "codigo": "C 24 017",           
+        "tipo": "filtro_aire",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 2,
+        "img":"img/img_filtro_aire/imagen1.jpg",
+        "alt": "Filtro de Aire Mann C 1460",
+        "marca": "MANN",
+        "codigo": "C 1460",
+        "tipo": "filtro_aire",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 3,
+        "img": "img/img_filtro_aire/imagen2.jpg",
+        "alt": "Filtro de Aire Bosch S 3281",
+        "marca": "BOSCH",
+        "codigo": "S 3281",
+        "tipo": "filtro_aire",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_filtro_aire/imagen3.jpg",
+        "alt": "Filtro de Aire Bosch S 3234",
+        "marca": "BOSCH",
+        "codigo": "S 3234",
+        "tipo": "filtro_aire",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 5,
+        "img": "img/img_filtro_aire/imagen4.jpg",
+        "alt": "Filtro de Aire Purflux A 1569",
+        "marca": "PURFLUX",
+        "codigo": "A 1569",
+        "tipo": "filtro_aire",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_filtro_aire/imagen.jpg",
+        "alt": "Filtro de Aire Mann C 24 017",
+        "marca": "MANN",
+        "codigo": "C 24 017",           
+        "tipo": "filtro_aire",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 7,
+        "img":"img/img_filtro_aire/imagen1.jpg",
+        "alt": "Filtro de Aire Mann C 1460",
+        "marca": "MANN",
+        "codigo": "C 1460",
+        "tipo": "filtro_aire",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 8,
+        "img": "img/img_filtro_aire/imagen2.jpg",
+        "alt": "Filtro de Aire Bosch S 3281",
+        "marca": "BOSCH",
+        "codigo": "S 3281",
+        "tipo": "filtro_aire",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_filtro_aire/imagen3.jpg",
+        "alt": "Filtro de Aire Bosch S 3234",
+        "marca": "BOSCH",
+        "codigo": "S 3234",
+        "tipo": "filtro_aire",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 10,
+        "img": "img/img_filtro_aire/imagen4.jpg",
+        "alt": "Filtro de Aire Purflux A 1569",
+        "marca": "PURFLUX",
+        "codigo": "A 1569",
+        "tipo": "filtro_aire",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 11,
+        "img": "img/img_filtro_aire/imagen.jpg",
+        "alt": "Filtro de Aire Mann C 24 017",
+        "marca": "MANN",
+        "codigo": "C 24 017",           
+        "tipo": "filtro_aire",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 12,
+        "img":"img/img_filtro_aire/imagen1.jpg",
+        "alt": "Filtro de Aire Mann C 1460",
+        "marca": "MANN",
+        "codigo": "C 1460",
+        "tipo": "filtro_aire",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 13,
+        "img": "img/img_filtro_aire/imagen2.jpg",
+        "alt": "Filtro de Aire Bosch S 3281",
+        "marca": "BOSCH",
+        "codigo": "S 3281",
+        "tipo": "filtro_aire",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_filtro_aire/imagen3.jpg",
+        "alt": "Filtro de Aire Bosch S 3234",
+        "marca": "BOSCH",
+        "codigo": "S 3234",
+        "tipo": "filtro_aire",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 15,
+        "img": "img/img_filtro_aire/imagen4.jpg",
+        "alt": "Filtro de Aire Purflux A 1569",
+        "marca": "PURFLUX",
+        "codigo": "A 1569",
+        "tipo": "filtro_aire",
+        "peso": 0.9,
+        "precio": 25.00
+    },
+    {
+        "id": 16,
+        "img": "img/img_filtro_aire/imagen.jpg",
+        "alt": "Filtro de Aire Mann C 24 017",
+        "marca": "MANN",
+        "codigo": "C 24 017",           
+        "tipo": "filtro_aire",
+        "peso": 0.5,
+        "precio": 15.99
+    },
+    {
+        "id": 17,
+        "img":"img/img_filtro_aire/imagen1.jpg",
+        "alt": "Filtro de Aire Mann C 1460",
+        "marca": "MANN",
+        "codigo": "C 1460",
+        "tipo": "filtro_aire",
+        "peso": 0.6,
+        "precio": 18.50
+    },
+    {
+        "id": 18,
+        "img": "img/img_filtro_aire/imagen2.jpg",
+        "alt": "Filtro de Aire Bosch S 3281",
+        "marca": "BOSCH",
+        "codigo": "S 3281",
+        "tipo": "filtro_aire",
+        "peso": 0.7,
+        "precio": 20.00
+    },
+    {
+        "id": 19,
+        "img": "img/img_filtro_aire/imagen3.jpg",
+        "alt": "Filtro de Aire Bosch S 3234",
+        "marca": "BOSCH",
+        "codigo": "S 3234",
+        "tipo": "filtro_aire",
+        "peso": 0.8,
+        "precio": 22.50
+    },
+    {
+        "id": 20,
+        "img": "img/img_filtro_aire/imagen4.jpg",
+        "alt": "Filtro de Aire Purflux A 1569",
+        "marca": "PURFLUX",
+        "codigo": "A 1569",
+        "tipo": "filtro_aire",
+        "peso": 0.9,
+        "precio": 25.00
+    }
+]

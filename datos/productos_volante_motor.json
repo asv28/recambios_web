@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_volante_motor/imagen.jpg",
+        "alt": "volante_motor LUK 2290 600 001", 
+        "marca": "LUK",
+        "codigo": "2290 600 001",
+        "tipo": "volante_motor",
+        "peso": 10.0,
+        "precio": 300.00
+    },
+    {
+        "id": 2,
+        "img": "img/img_volante_motor/imagen1.jpg",
+        "alt": "volante_motor LUK 415 023 001",
+        "marca": "LUK",
+        "codigo": "415 023 001",
+        "tipo": "volante_motor",
+        "peso": 11.0,
+        "precio": 350.00
+    },
+    {
+        "id": 3,
+        "img": "img/img_volante_motor/imagen2.jpg",
+        "alt": "volante_motor LUK 123456",   
+        "marca": "LUK",
+        "codigo": "123456",
+        "tipo": "volante_motor",
+        "peso": 12.0,
+        "precio": 400.00
+    },
+    {
+        "id": 4,
+        "img": "img/img_volante_motor/imagen3.jpg",
+        "alt": "volante_motor SACHS 456123",
+        "marca": "SACHS",
+        "codigo": "456123",
+        "tipo": "volante_motor",
+        "peso": 13.0,
+        "precio": 450.00
+    },
+    {
+        "id": 5,
+        "img": "img/img_volante_motor/imagen4.jpg",
+        "alt": "volante_motor Valeo 789456",
+        "marca": "VALEO",
+        "codigo": "789456",
+        "tipo": "volante_motor",
+        "peso": 14.0,
+        "precio": 500.00
+    },
+    {
+        "id": 6,
+        "img": "img/img_volante_motor/imagen5.jpg",
+        "alt": "volante_motor Valeo 654321",
+        "marca": "VALEO",
+        "codigo": "654321",
+        "tipo": "volante_motor",
+        "peso": 15.0,
+        "precio": 550.00
+    },
+    {
+        "id": 7,
+        "img": "img/img_volante_motor/imagen6.jpg",
+        "alt": "volante_motor Valeo 321654",
+        "marca": "VALEO",
+        "codigo": "321654",
+        "tipo": "volante_motor",
+        "peso": 16.0,
+        "precio": 600.00
+    },
+    {
+        "id": 8,
+        "img": "img/img_volante_motor/imagen7.jpg",
+        "alt": "volante_motor Valeo 987654",
+        "marca": "VALEO",
+        "codigo": "987654",
+        "tipo": "volante_motor",
+        "peso": 17.0,
+        "precio": 650.00
+    },
+    {
+        "id": 9,
+        "img": "img/img_volante_motor/imagen8.jpg",
+        "alt": "volante_motor Valeo 456789",
+        "marca": "VALEO",
+        "codigo": "456789",
+        "tipo": "volante_motor",
+        "peso": 18.0,
+        "precio": 700.00
+    },
+    {
+        "id": 10,
+        "img": "img/img_volante_motor/imagen.jpg",
+        "alt": "volante_motor LUK 2290 600 001", 
+        "marca": "LUK",
+        "codigo": "2290 600 001",
+        "tipo": "volante_motor",
+        "peso": 10.0,
+        "precio": 300.00
+    },
+    {
+        "id": 11,
+        "img": "img/img_volante_motor/imagen1.jpg",
+        "alt": "volante_motor LUK 415 023 001",
+        "marca": "LUK",
+        "codigo": "415 023 001",
+        "tipo": "volante_motor",
+        "peso": 11.0,
+        "precio": 350.00
+    },
+    {
+        "id": 12,
+        "img": "img/img_volante_motor/imagen2.jpg",
+        "alt": "volante_motor LUK 123456",   
+        "marca": "LUK",
+        "codigo": "123456",
+        "tipo": "volante_motor",
+        "peso": 12.0,
+        "precio": 400.00
+    },
+    {
+        "id": 13,
+        "img": "img/img_volante_motor/imagen3.jpg",
+        "alt": "volante_motor SACHS 456123",
+        "marca": "SACHS",
+        "codigo": "456123",
+        "tipo": "volante_motor",
+        "peso": 13.0,
+        "precio": 450.00
+    },
+    {
+        "id": 14,
+        "img": "img/img_volante_motor/imagen4.jpg",
+        "alt": "volante_motor Valeo 789456",
+        "marca": "VALEO",
+        "codigo": "789456",
+        "tipo": "volante_motor",
+        "peso": 14.0,
+        "precio": 500.00
+    },
+    {
+        "id": 15,
+        "img": "img/img_volante_motor/imagen5.jpg",
+        "alt": "volante_motor Valeo 654321",
+        "marca": "VALEO",
+        "codigo": "654321",
+        "tipo": "volante_motor",
+        "peso": 15.0,
+        "precio": 550.00
+    },
+    {
+        "id": 16,
+        "img": "img/img_volante_motor/imagen6.jpg",
+        "alt": "volante_motor Valeo 321654",
+        "marca": "VALEO",
+        "codigo": "321654",
+        "tipo": "volante_motor",
+        "peso": 16.0,
+        "precio": 600.00
+    },
+    {
+        "id": 17,
+        "img": "img/img_volante_motor/imagen7.jpg",
+        "alt": "volante_motor Valeo 987654",
+        "marca": "VALEO",
+        "codigo": "987654",
+        "tipo": "volante_motor",
+        "peso": 17.0,
+        "precio": 650.00
+    },
+    {
+        "id": 18,
+        "img": "img/img_volante_motor/imagen8.jpg",
+        "alt": "volante_motor Valeo 456789",
+        "marca": "VALEO",
+        "codigo": "456789",
+        "tipo": "volante_motor",
+        "peso": 18.0,
+        "precio": 700.00
+    },
+    {
+        "id": 19,
+        "img": "img/img_volante_motor/imagen.jpg",
+        "alt": "volante_motor LUK 2290 600 001", 
+        "marca": "LUK",
+        "codigo": "2290 600 001",
+        "tipo": "volante_motor",
+        "peso": 10.0,
+        "precio": 300.00
+    },
+    {
+        "id": 20,
+        "img": "img/img_volante_motor/imagen1.jpg",
+        "alt": "volante_motor LUK 415 023 001",
+        "marca": "LUK",
+        "codigo": "415 023 001",
+        "tipo": "volante_motor",
+        "peso": 11.0,
+        "precio": 350.00
+    },
+    {
+        "id": 21,
+        "img": "img/img_volante_motor/imagen2.jpg",
+        "alt": "volante_motor LUK 123456",   
+        "marca": "LUK",
+        "codigo": "123456",
+        "tipo": "volante_motor",
+        "peso": 12.0,
+        "precio": 400.00
+    },
+    {
+        "id": 22,
+        "img": "img/img_volante_motor/imagen3.jpg",
+        "alt": "volante_motor SACHS 456123",
+        "marca": "SACHS",
+        "codigo": "456123",
+        "tipo": "volante_motor",
+        "peso": 13.0,
+        "precio": 450.00
+    },
+    {
+        "id": 23,
+        "img": "img/img_volante_motor/imagen4.jpg",
+        "alt": "volante_motor Valeo 789456",
+        "marca": "VALEO",
+        "codigo": "789456",
+        "tipo": "volante_motor",
+        "peso": 14.0,
+        "precio": 500.00
+    },
+    {
+        "id": 24,
+        "img": "img/img_volante_motor/imagen5.jpg",
+        "alt": "volante_motor Valeo 654321",
+        "marca": "VALEO",
+        "codigo": "654321",
+        "tipo": "volante_motor",
+        "peso": 15.0,
+        "precio": 550.00
+    },
+    {
+        "id": 25,
+        "img": "img/img_volante_motor/imagen6.jpg",
+        "alt": "volante_motor Valeo 321654",
+        "marca": "VALEO",
+        "codigo": "321654",
+        "tipo": "volante_motor",
+        "peso": 16.0,
+        "precio": 600.00
+    },
+    {
+        "id": 26,
+        "img": "img/img_volante_motor/imagen7.jpg",
+        "alt": "volante_motor Valeo 987654",
+        "marca": "VALEO",
+        "codigo": "987654",
+        "tipo": "volante_motor",
+        "peso": 17.0,
+        "precio": 650.00
+    },
+    {
+        "id": 27,
+        "img": "img/img_volante_motor/imagen8.jpg",
+        "alt": "volante_motor Valeo 456789",
+        "marca": "VALEO",
+        "codigo": "456789",
+        "tipo": "volante_motor",
+        "peso": 18.0,
+        "precio": 700.00
+    }
+]
